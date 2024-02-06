@@ -1,0 +1,3669 @@
+ingredient,ingredient_id,category
+salt,1,other
+olive oil,2,oils
+butter,3,dairy
+sugar,4,baking
+water,5,other
+flour,6,baking
+garlic,7,produce
+eggs,8,other
+onion,9,produce
+vanilla extract,10,baking
+milk,11,dairy
+kosher salt,12,other
+lemon juice,13,other
+unsalted butter,14,dairy
+baking powder,15,baking
+pepper,16,spices
+egg,17,other
+brown sugar,18,baking
+baking soda,19,baking
+garlic cloves,20,spices
+vegetable oil,21,oils
+granulated sugar,22,baking
+honey,23,condiments
+cream cheese,24,dairy
+parmesan cheese,25,dairy
+garlic powder,26,spices
+carrots,27,produce
+cinnamon,28,spices
+oregano,29,herbs
+red onion,30,produce
+heavy cream,31,dairy
+celery,32,produce
+chicken,33,meats
+sour cream,34,dairy
+vanilla,35,other
+sea salt,36,other
+green onions,37,produce
+lime juice,38,other
+soy sauce,39,condiments
+powdered sugar,40,baking
+bacon,41,meats
+cornstarch,42,produce
+tomatoes,43,produce
+canola oil,44,oils
+oil,45,other
+chicken broth,46,meats
+maple syrup,47,condiments
+red bell pepper,48,spices
+canned tomatoes,49,produce
+lemon zest,50,other
+paprika,51,spices
+dijon mustard,52,condiments
+chili powder,53,other
+chocolate,54,other
+mayonnaise,55,condiments
+white sugar,56,baking
+onions,57,produce
+parsley,58,herbs
+cilantro,59,herbs
+pecans,60,nuts
+beef,61,meats
+ginger,62,spices
+garlic clove,63,produce
+red pepper flakes,64,spices
+walnuts,65,nuts
+cayenne pepper,66,spices
+extra virgin olive oil,67,oils
+carrot,68,produce
+coconut oil,69,nuts
+zucchini,70,produce
+strawberries,71,other
+worcestershire sauce,72,other
+sesame oil,73,oils
+food dye,74,other
+orange juice,75,other
+potatoes,76,produce
+fish,77,other
+tomato,78,produce
+juice of lemon,79,other
+avocado,80,produce
+buttermilk,81,dairy
+nutmeg,82,spices
+balsamic vinegar,83,other
+egg whites,84,other
+green bell pepper,85,spices
+almonds,86,nuts
+lemon,87,other
+shrimp,88,seafood
+tomato paste,89,produce
+scallions,90,other
+onion powder,91,produce
+all purpose flour,92,
+chicken stock,93,meats
+egg yolks,94,other
+red wine vinegar,95,other
+confectioners' sugar,96,baking
+shallots,97,produce
+spinach,98,produce
+mushrooms,99,produce
+blueberries,100,other
+rye meal,101,grains
+bread,102,other
+peanut butter,103,dairy
+juice of lime,104,other
+bananas,105,other
+cucumber,106,produce
+banana,107,other
+cherry tomatoes,108,produce
+coconut,109,nuts
+heavy whipping cream,110,dairy
+Salt & Pepper,111,spices
+apple cider vinegar,112,other
+bay leaf,113,herbs
+bay leaves,114,other
+chocolate chips,115,baking
+parmesan,116,dairy
+cocoa powder,117,baking
+ketchup,118,condiments
+shallot,119,produce
+dry white wine,120,other
+orange zest,121,other
+sesame seeds,122,nuts
+salsa,123,condiments
+feta cheese,124,dairy
+raisins,125,other
+vegetable broth,126,broths
+pasta,127,other
+apple,128,other
+apples,129,other
+unsweetened cocoa powder,130,baking
+peas,131,produce
+rice,132,grains
+broccoli,133,produce
+cream,134,dairy
+raspberries,135,other
+almond milk,136,dairy
+basil,137,herbs
+thyme,138,herbs
+hot sauce,139,condiments
+green onion,140,produce
+sweet potatoes,141,produce
+active yeast,142,baking
+kale,143,other
+cheddar cheese,144,dairy
+cooking oil,145,other
+basil leaves,146,herbs
+canned black beans,147,other
+curry powder,148,spices
+bbq sauce,149,other
+almond extract,150,other
+jalapeno,151,produce
+chicken breasts,152,meats
+asparagus,153,produce
+whipping cream,154,dairy
+chives,155,herbs
+cider vinegar,156,other
+corn syrup,157,produce
+rice vinegar,158,grains
+smoked paprika,159,spices
+quinoa,160,grains
+semisweet chocolate chips,161,baking
+goat cheese,162,dairy
+pineapple,163,produce
+ham,164,meats
+lime,165,produce
+ice,166,other
+cumin seeds,167,spices
+capers,168,other
+shortening,169,baking
+dark brown sugar,170,baking
+sharp cheddar cheese,171,dairy
+baby spinach,172,produce
+cabbage,173,produce
+coconut milk,174,dairy
+white wine,175,other
+butternut squash,176,dairy
+mango,177,produce
+bread crumbs,178,other
+rolled oats,179,grains
+egg yolk,180,other
+white wine vinegar,181,other
+whipped topping,182,other
+flour tortillas,183,baking
+orange,184,other
+mustard,185,condiments
+molasses,186,baking
+green beans,187,produce
+creamy peanut butter,188,dairy
+greek yogurt,189,dairy
+sweet potato,190,produce
+sweetened condensed milk,191,dairy
+peaches,192,other
+pine nuts,193,nuts
+white vinegar,194,other
+rosemary,195,herbs
+cranberries,196,other
+pumpkin pie spice,197,other
+bell pepper,198,spices
+broccoli florets,199,produce
+white onion,200,produce
+canned tomato sauce,201,produce
+egg white,202,other
+coriander,203,spices
+lettuce,204,produce
+chicken breast,205,meats
+almond flour,206,baking
+margarine,207,other
+pumpkin puree,208,other
+lime zest,209,other
+tomato sauce,210,produce
+garlic salt,211,produce
+semi sweet chocolate chips,213,baking
+cayenne,214,spices
+mint,215,herbs
+turmeric,216,spices
+turkey,217,meats
+vegetable stock,218,broths
+evaporated milk,219,dairy
+wine,220,other
+beef broth,221,meats
+cookies,223,other
+fish sauce,224,other
+monterey jack cheese,225,dairy
+corn tortillas,226,produce
+sweet onion,227,produce
+whipped cream,228,dairy
+grape tomatoes,229,produce
+cake flour,230,baking
+vanilla ice cream,231,dairy
+crushed red pepper,232,spices
+turmeric powder,233,spices
+coconut flour,234,nuts
+vodka,235,other
+olives,236,other
+garam masala,237,spices
+vinegar,238,other
+swiss cheese,239,dairy
+mozzarella cheese,240,dairy
+cream of tartar,241,dairy
+oats,242,grains
+rib tips,243,other
+salted butter,245,dairy
+pumpkin,246,other
+plum tomatoes,247,produce
+red potatoes,248,produce
+beer,249,other
+pork,250,meats
+dates,251,other
+chilli powder,252,other
+corn,253,produce
+mint leaves,254,herbs
+black peppercorns,255,spices
+potato,256,produce
+pie crust,257,other
+vanilla bean,258,other
+yogurt,259,dairy
+salmon,260,seafood
+fruit,261,other
+bittersweet chocolate,262,other
+white pepper,263,spices
+breadcrumbs,264,other
+black olives,265,other
+cheese,266,dairy
+cornmeal,267,produce
+pineapple juice,268,other
+chia seeds,270,other
+cherries,271,produce
+eggplant,272,produce
+lemon peel,273,other
+russet potatoes,275,produce
+plain flour,276,baking
+coconut sugar,277,other
+leeks,278,produce
+cilantro leaves,279,herbs
+red wine,280,other
+romaine lettuce,281,produce
+brussels sprouts,282,produce
+coffee,283,other
+kalamata olives,284,other
+bread flour,285,baking
+dark chocolate,286,other
+ricotta cheese,287,dairy
+ice cream,288,dairy
+graham cracker crumbs,289,meats
+semisweet chocolate,290,other
+gelatin,291,other
+ghee,292,other
+puff pastry,293,other
+canned chickpeas,294,produce
+club soda,295,other
+peanut oil,296,oils
+black beans,297,other
+arugula,298,other
+slivered almonds,299,nuts
+breakfast links,300,other
+brown rice,301,grains
+spaghetti,302,other
+horseradish,303,other
+plain greek yogurt,304,dairy
+apple cider,305,other
+peanuts,306,nuts
+radishes,307,other
+barbecue sauce,308,condiments
+unbleached flour,309,baking
+tofu,310,other
+tahini,311,condiments
+blue cheese,312,dairy
+dry mustard,313,condiments
+roma tomatoes,314,produce
+plain yogurt,315,dairy
+apple juice,316,other
+dill,317,herbs
+rum,318,other
+almond butter,319,dairy
+corn kernels,320,produce
+red pepper,321,spices
+bourbon,322,other
+artichoke hearts,323,other
+mustard seeds,324,condiments
+lemons,325,other
+blackberries,326,other
+celery stalks,327,produce
+red onions,328,produce
+rice wine vinegar,329,grains
+pork chops,330,meats
+red bell peppers,331,spices
+deep dish pie crust,332,other
+yukon gold potatoes,333,produce
+golden raisins,334,other
+frozen corn,335,produce
+yeast,336,baking
+white chocolate chips,337,baking
+pistachios,338,nuts
+marinara sauce,339,other
+hazelnuts,340,nuts
+cashews,341,nuts
+leek,342,other
+orange peel,343,other
+fennel seeds,345,spices
+green pepper,346,spices
+white rice,347,grains
+summer savory,348,other
+prosciutto,350,meats
+tortilla chips,351,breads
+cucumbers,352,produce
+panko bread crumbs,353,other
+simple syrup,354,other
+pecan,356,other
+sprinkles,357,other
+spring onions,358,produce
+creme fraiche,359,other
+curry leaves,360,other
+kitchen bouquet,361,other
+sausage,362,meats
+canned pumpkin,363,other
+pears,364,other
+quick cooking oats,365,grains
+agave nectar,366,other
+poppy seeds,367,other
+green chillies,368,other
+allspice,369,spices
+bell peppers,370,spices
+stevia,371,other
+tequila,372,other
+chickpeas,373,produce
+hoisin sauce,374,condiments
+sriracha,375,condiments
+roasted red peppers,376,spices
+corn starch,377,produce
+green chilies,378,other
+coriander seeds,379,spices
+cocoa,380,other
+leafy vegetables,381,other
+table salt,382,other
+pesto,383,condiments
+beef stock,384,meats
+peppers,385,spices
+dry red wine,386,other
+chili sauce,387,condiments
+fennel bulb,388,spices
+button mushrooms,389,produce
+salmon fillets,390,seafood
+graham crackers,391,meats
+granny smith apples,392,other
+lemon rind,393,other
+dark chocolate chips,394,baking
+berries,395,other
+unsweetened applesauce,396,other
+mayo,397,other
+canned coconut milk,398,dairy
+applesauce,399,other
+nutritional yeast,400,baking
+thyme sprigs,401,herbs
+hamburger buns,402,meats
+baguette,403,breads
+frozen spinach,404,produce
+ears corn,405,produce
+rhubarb,406,other
+icing sugar,407,baking
+white chocolate,408,other
+roasted garlic,409,produce
+pear,410,other
+red cabbage,411,produce
+lemon wedges,412,other
+beets,413,produce
+feta,415,other
+ice water,416,other
+liquid smoke,417,other
+sherry vinegar,418,other
+watermelon,419,other
+thyme leaves,420,herbs
+cream of chicken soup,421,meats
+oranges,422,produce
+flat leaf parsley,423,herbs
+peach,424,other
+pepperoni,425,spices
+tomato puree,426,produce
+provolone cheese,427,dairy
+canned diced tomatoes,428,produce
+scallion,429,other
+canned pineapple,430,other
+pita breads,431,breads
+food coloring,433,other
+parsley leaves,434,herbs
+canned pumpkin puree,435,other
+canned kidney beans,436,other
+pot roast,437,other
+french bread,438,other
+mushroom,439,produce
+pancetta,440,other
+english cucumber,441,produce
+pork tenderloin,442,meats
+unsweetened chocolate,443,other
+chili,444,other
+pizza sauce,445,other
+xanthan gum,446,other
+parmigiano reggiano,447,other
+dal,448,other
+chicken thighs,449,meats
+baby carrots,450,produce
+flank steak,451,other
+confectioners sugar,452,baking
+cheddar,453,dairy
+oregano leaves,454,herbs
+ranch dressing,455,condiments
+oyster sauce,456,other
+dry sherry,457,other
+lettuce leaves,458,produce
+gruyere cheese,459,dairy
+dry bread crumbs,460,other
+rice flour,461,baking
+white bread,462,breads
+roast beef,463,meats
+juice,464,other
+chillies,465,other
+instant yeast,466,baking
+pineapple chunks,467,other
+condensed cream of mushroom soup,468,other
+mirin,469,other
+roasted peanuts,470,nuts
+snow peas,471,produce
+sub rolls,472,other
+almond,473,other
+herbs,474,other
+maraschino cherries,475,other
+cremini mushrooms,476,produce
+meat,477,other
+white distilled vinegar,478,other
+italian sausage,479,meats
+dark rum,480,other
+pizza dough,481,other
+milk chocolate chips,482,dairy
+peppercorns,483,spices
+penne pasta,484,other
+chicken wings,485,meats
+peppermint extract,486,spices
+swerve sweetener,487,other
+cottage cheese,488,dairy
+golden brown sugar,489,baking
+egg noodles,490,other
+parsnips,491,other
+grapeseed oil,492,oils
+mascarpone cheese,493,dairy
+dessert wine,494,other
+baby spinach leaves,495,produce
+baking potatoes,496,produce
+avocado oil,497,oils
+salad dressing,498,other
+parmigiano reggiano cheese,499,dairy
+star anise,500,spices
+green cabbage,501,produce
+pumpkin seeds,502,nuts
+coriander powder,503,spices
+juice of orange,504,other
+basmati rice,505,grains
+granny smith apple,506,other
+old fashioned rolled oats,507,grains
+caramel sauce,508,other
+shiitake mushrooms,509,produce
+dairy milk,510,dairy
+baking bar,511,other
+chilies,512,other
+iceberg lettuce,513,produce
+sage,514,herbs
+elbow macaroni,515,other
+tea,516,other
+red beans,517,other
+lemongrass,518,herbs
+spaghetti sauce,519,other
+cardamom,520,spices
+bacon strips,521,meats
+arborio rice,522,grains
+greens,523,other
+m&m candy,524,other
+panko breadcrumbs,525,other
+saffron,526,spices
+spinach leaves,527,produce
+seafood stock,528,broths
+pretzels,529,other
+medjool dates,530,other
+pepper jack cheese,531,spices
+oatmeal,532,other
+coconut cream,533,dairy
+oat flour,534,baking
+sweet paprika,535,spices
+cranberry juice,536,other
+noodles,537,other
+sheeps milk cheese,538,dairy
+pasta sauce,539,other
+cane sugar,540,baking
+tortillas,541,breads
+asparagus spears,542,produce
+cream of mushroom soup,543,produce
+maca powder,544,other
+nutella,545,other
+double cream,546,dairy
+chorizo,547,meats
+couscous,548,grains
+canned corn,549,produce
+green olives,550,other
+tomato soup,551,produce
+asafoetida,552,other
+red food coloring,553,other
+condensed cream of chicken soup,554,meats
+celery seed,555,produce
+unsweetened cocoa,556,other
+watercress,557,other
+crackers,558,other
+sweetened coconut,559,nuts
+cup cake,560,other
+raw cashews,561,nuts
+sugar snap peas,562,produce
+baby arugula,563,other
+bean sprouts,564,other
+lb cake,565,other
+spaghetti squash,566,other
+tomatillos,567,other
+eggplants,568,produce
+strong coffee,569,other
+old fashioned oats,570,grains
+paneer,571,other
+rice noodles,572,grains
+red grapes,573,other
+refried beans,574,other
+swiss chard,575,other
+raw honey,576,condiments
+orange marmalade,577,other
+beef stew meat,578,meats
+mustard powder,579,condiments
+panko,580,other
+tomato juice,581,produce
+napa cabbage,582,produce
+oreo cookies,583,other
+chiles,584,other
+whiskey,585,other
+extra firm tofu,586,other
+new potatoes,587,produce
+cereal,588,other
+pink himalayan salt,589,other
+cookie,590,other
+mussels,591,seafood
+hummus,592,other
+carp,593,other
+lentils,594,other
+tapioca flour,595,baking
+cornflour,596,produce
+linguine,597,other
+gin,598,other
+deli ham,599,meats
+corn chips,600,produce
+fontina cheese,601,dairy
+okra,602,other
+almond meal,603,other
+celery salt,604,produce
+rotisserie chicken,605,meats
+unsweetened coconut milk,606,dairy
+baking cocoa,607,other
+flat leaf parsley leaves,608,herbs
+live lobster,609,seafood
+green peas,610,produce
+pizza crust,611,other
+edamame,612,other
+stock,613,broths
+broth,614,other
+pork loin chops,615,meats
+turkey breast,616,meats
+fennel,617,spices
+caraway seeds,618,other
+orange rind,619,other
+canned pinto beans,620,other
+romano cheese,621,dairy
+lamb,622,meats
+celery stalk,623,produce
+chocolate syrup,624,other
+canned cannellini beans,625,other
+pomegranate seeds,626,other
+tabasco sauce,627,other
+caramel,628,other
+biscuits,629,other
+macadamia nuts,630,nuts
+steak,631,other
+enchilada sauce,632,other
+dark sesame oil,633,oils
+spring onion,634,produce
+anchovy,635,other
+rice paper,636,grains
+guacamole,637,other
+smoked salmon,638,seafood
+salad greens,639,other
+beef chuck roast,640,meats
+egg substitute,641,other
+lasagna noodles,642,other
+grapes,643,other
+sourdough bread,644,breads
+dry roasted peanuts,645,nuts
+strawberry,646,other
+seeds,647,other
+raspberry jam,648,condiments
+cacao powder,649,other
+lemon extract,650,other
+breakfast syrup,651,other
+apricots,652,produce
+apricot preserves,653,other
+salmon fillet,654,seafood
+granola,655,other
+baby potatoes,656,produce
+sharp cheddar,657,dairy
+diced ham,658,meats
+erythritol,659,other
+american cheese,660,dairy
+potato starch,661,other
+canned garbanzo beans,663,other
+chilli,664,other
+popcorn,665,other
+sherry,666,other
+vegetable,667,other
+saffron threads,668,spices
+cherry,669,other
+figs,670,other
+curry paste,671,other
+icing,672,other
+red pepper powder,673,spices
+orange juice concentrate,674,other
+paleo wrap,675,other
+baby bella mushrooms,676,produce
+great northern beans,677,other
+clams,678,seafood
+ready to use piecrust,679,other
+chocolate chip cookies,680,other
+ginger root,681,spices
+italian dressing,682,other
+cupcakes,683,other
+jam,684,condiments
+coconut aminos,685,condiments
+adobo sauce,686,condiments
+canned beef broth,687,other
+dark chocolate candy bars,688,other
+teriyaki sauce,689,condiments
+rice wine,690,other
+polenta,691,grains
+green bell peppers,692,produce
+baby dill,693,herbs
+dinner rolls,695,breads
+condensed milk,696,dairy
+steel cut oats,697,grains
+tuna,698,seafood
+sake,700,other
+turbinado sugar,701,baking
+green chilli,702,produce
+sauerkraut,703,other
+vanilla yogurt,704,dairy
+cherry pie filling,705,other
+crystallized ginger,706,other
+wonton wrappers,707,other
+baked beans,708,other
+tamari,709,condiments
+tarragon,710,herbs
+sage leaves,711,herbs
+dry yeast,712,baking
+acorn squash,713,produce
+canned water chestnuts,714,other
+date,715,produce
+plums,716,produce
+roasted red pepper,717,other
+pork belly,718,meats
+cheese curds,719,dairy
+basil pesto,720,condiments
+triple sec,721,other
+smooth peanut butter,723,dairy
+rajma masala,724,other
+apple pie spice,725,other
+wheat germ,726,grains
+pomegranate juice,727,other
+chili paste,728,other
+red peppers,729,spices
+toast,730,other
+pimento stuffed olives,731,other
+sea scallops,732,seafood
+salami,733,meats
+chile powder,734,other
+dill weed,735,herbs
+asiago cheese,736,dairy
+slaw dressing,737,other
+white balsamic vinegar,738,other
+granulated garlic,739,produce
+ricotta,740,dairy
+chicken breast halves,741,meats
+red chilli,742,other
+radicchio,743,other
+cantaloupe,744,other
+canned tuna,745,seafood
+portobello mushrooms,746,produce
+soy milk,747,dairy
+vanilla bean paste,748,other
+instant coffee granules,749,other
+spicy brown mustard,750,condiments
+turnips,751,other
+white mushrooms,752,produce
+milk chocolate,753,dairy
+processed american cheese,754,dairy
+pork links,755,meats
+brown rice flour,756,baking
+round steak,757,other
+clam juice,758,other
+chocolate milk,759,dairy
+champagne vinegar,760,meats
+green chiles,761,other
+meatballs,762,other
+coconut extract,763,nuts
+jicama,764,other
+grapefruit,765,other
+peanut butter cups,766,dairy
+chili flakes,767,other
+lump crabmeat,768,seafood
+sriracha sauce,769,condiments
+raw shrimp,770,seafood
+game,771,other
+caramels,772,other
+jack cheese,773,dairy
+italian bread,774,other
+cardamom pods,775,spices
+artichokes,776,other
+rice syrup,777,grains
+capsicum,778,other
+plum tomato,779,produce
+tapioca starch,780,other
+orange bell pepper,781,spices
+coconut butter,782,dairy
+canned green chiles,783,other
+Spice Rub,784,other
+tea bags,785,other
+instant vanilla pudding,786,other
+cheese soup,787,dairy
+leg of lamb,788,meats
+diet pop,789,other
+green peppers,790,spices
+long grain rice,791,grains
+lemon pepper,792,spices
+beef brisket,793,meats
+baking chocolate,794,other
+pork sausage,795,meats
+beet,796,other
+cardamom powder,797,spices
+gingerbread kids,798,spices
+white flour,799,baking
+grand marnier,800,other
+chocolate ice cream,801,dairy
+fettuccine,802,other
+canned mandarin oranges,803,other
+instant espresso powder,804,other
+corn kernel,805,produce
+tea bag,806,other
+queso fresco,807,other
+croutons,808,other
+frosting,809,other
+roasted pork,810,meats
+fleur de sel,811,other
+ginger ale,812,spices
+pretzel sandwiches,813,other
+crisp rice cereal,814,grains
+thai red curry paste,815,other
+prawns,816,other
+champagne,817,meats
+wheat flour,818,baking
+salsa verde,819,condiments
+italian cheese blend,820,dairy
+winter squash,821,other
+macaroni dinner,822,other
+orange liqueur,823,other
+pearl onions,824,produce
+dry breadcrumbs,825,other
+Top Sirloin,826,other
+steaks,827,other
+roma tomato,828,produce
+marinated artichoke hearts,829,other
+coconut flakes,830,nuts
+candy melts,831,other
+liquid stevia,832,other
+bamboo shoots,833,other
+cod,834,seafood
+chocolate chip cookie,835,other
+squash,836,other
+bok choy,837,other
+canned white beans,838,other
+butterscotch chips,839,dairy
+hot dogs,840,other
+instant coffee,841,other
+fried onions,842,produce
+eggnog,843,other
+pound cake,844,other
+natural sugar,845,baking
+queso dip,846,other
+canned mushrooms,847,produce
+peanut butter chips,848,dairy
+filo pastry,849,other
+phyllo dough,850,other
+chicken tenders,851,meats
+vanilla frosting,852,other
+grapefruit juice,853,other
+pork loin,855,meats
+balsamic glaze,856,other
+red sweet pepper,857,spices
+raw sugar,858,baking
+graham cracker crust,859,meats
+real cheese,861,dairy
+top blade steak,862,other
+cloves,863,spices
+chocolate cookies,864,other
+black sesame seeds,865,nuts
+food color,866,other
+red lentils,867,other
+hemp seeds,868,other
+hash brown potatoes,869,produce
+red chili powder,870,other
+tomato ketchup,871,produce
+cinnamon sugar,872,spices
+jumbo shrimp,873,seafood
+chipotle peppers in adobo,874,spices
+thai basil,875,herbs
+serrano chile,876,other
+grain blend,877,other
+silken tofu,878,other
+roasted red bell peppers,879,spices
+red curry paste,880,other
+toffee bits,881,other
+green food coloring,882,other
+chili pepper,883,spices
+fennel seed,884,spices
+chile paste,885,other
+gingerroot,886,spices
+english muffins,887,breads
+wild rice,888,grains
+honey mustard,889,condiments
+cream cheese block,890,dairy
+pecorino romano cheese,891,dairy
+chicken bouillon granules,892,meats
+vine ripened tomatoes,893,produce
+minute rice,894,grains
+marjoram,895,herbs
+salted peanuts,896,nuts
+white sandwich bread,897,other
+sub buns,898,other
+instant brown rice,899,grains
+brie,900,other
+ears of corn,901,produce
+brie cheese,902,dairy
+pork shoulder,903,meats
+herbes de provence,904,other
+walnut halves,905,other
+pb cups,906,other
+jasmine rice,907,grains
+bacon bits,908,meats
+solid pack pumpkin,909,other
+oreos,910,other
+coconut water,911,nuts
+cotija cheese,912,dairy
+mint chutney,913,herbs
+angel hair pasta,914,other
+strawberry jam,915,condiments
+sweet onions,916,produce
+corn flour,917,produce
+vanilla wafers,918,other
+beef top sirloin steak,920,meats
+apricot jam,921,condiments
+romaine,922,other
+quinoa flour,923,baking
+rum extract,924,other
+vanilla protein powder,925,other
+flaxseed meal,926,other
+pesto sauces,927,condiments
+rye bread,928,grains
+cannellini beans,929,other
+scallops,930,seafood
+froyo bars,931,other
+bread bowl,932,other
+gorgonzola cheese,933,dairy
+bulk pork sausage,935,meats
+corn oil,936,produce
+vanilla essence,937,other
+prunes,938,other
+pear liqueur,939,other
+chive & onion cream cheese spread,940,produce
+espresso powder,941,other
+gingerbread people,942,spices
+unsweetened coconut flakes,943,nuts
+kidney beans,944,other
+chocolate chunks,945,other
+pecan pieces,946,other
+cognac,947,other
+spices,948,other
+pico de gallo,949,other
+chicken bouillon,950,meats
+summer squash,951,other
+dill pickles,952,condiments
+pork butt,953,meats
+fudge,954,other
+cinnamon bread,955,spices
+collard greens,956,other
+mexican rub,957,other
+tart apple,958,other
+jelly,959,other
+sweet corn,960,produce
+chuck roast,961,other
+red chili flakes,962,other
+orzo pasta,963,other
+heirloom tomatoes,964,produce
+papaya,965,other
+cacao nibs,966,other
+zucchinis,967,produce
+macaroni,968,other
+fennel bulbs,969,spices
+sparkling water,970,other
+agave syrup,971,other
+mascarpone,972,other
+sausage links,973,meats
+wine vinegar,974,other
+beef steak,975,meats
+pinto beans,976,other
+green grapes,977,other
+agave,978,other
+chipotle powder,979,other
+vidalia onion,980,produce
+berry,981,other
+currants,982,other
+garlic paste,983,produce
+miracle whip,984,other
+chicken sausage,985,meats
+truffle oil,986,other
+ginger paste,987,spices
+walnut pieces,988,other
+tilapia fillets,989,seafood
+russet potato,990,produce
+orzo,991,other
+corned beef,992,meats
+baby bok choy,993,other
+ancho chile powder,994,other
+candy canes,995,other
+rotini pasta,996,other
+bulk sausage,997,meats
+gouda cheese,998,dairy
+bittersweet chocolate chips,999,baking
+potato chips,1000,produce
+extravirgin olive oil,1001,oils
+fruits,1002,other
+irish cream,1003,dairy
+pimientos,1004,other
+apricot,1005,other
+water chestnuts,1006,other
+pork ribs,1007,meats
+balsamic vinaigrette,1008,condiments
+cheese tortellini,1009,dairy
+store bought polenta,1010,other
+kiwi,1011,other
+alfredo sauce,1012,other
+fenugreek seeds,1013,other
+sweet pickle relish,1014,condiments
+dutch process cocoa powder,1015,baking
+oysters,1016,seafood
+rice krispies cereal,1017,grains
+clarified butter,1018,dairy
+gruyere,1019,other
+spelt flour,1020,baking
+chilli flakes,1021,other
+olive,1022,other
+andouille sausage,1023,meats
+pork tenderloins,1024,meats
+chile,1025,other
+snack peppers,1026,spices
+rubbed sage,1027,herbs
+stuffing,1028,other
+unsweetened coconut,1029,nuts
+easter ham,1030,meats
+grill cheese,1031,dairy
+vermouth,1032,other
+smoked sausage,1033,meats
+poblano peppers,1034,spices
+crabmeat,1035,seafood
+radish,1036,other
+wide egg noodles,1037,other
+port,1038,other
+big shells,1039,other
+navel oranges,1040,other
+harissa,1041,other
+peppermint baking chips,1042,spices
+condensed tomato soup,1043,produce
+lunch meat,1044,other
+colby jack cheese,1045,dairy
+raspberry,1046,other
+desiccated coconut,1047,nuts
+chickens,1048,meats
+parsnip,1049,other
+fire roasted canned tomatoes,1050,produce
+baby beet,1051,other
+jaggery,1052,other
+poblano pepper,1053,spices
+caramel ice cream topping,1054,dairy
+ginger garlic paste,1055,spices
+pita bread,1056,breads
+poppy seed,1057,other
+lemon curd,1058,other
+canned great northern beans,1059,other
+penne,1060,other
+protein powder,1061,other
+allergy friendly chocolate chips,1062,baking
+chicken meat,1063,meats
+italian salad dressing,1064,other
+lemonade concentrate,1065,other
+pie shell,1066,other
+tilapia,1067,seafood
+pearl barley,1068,grains
+farro,1069,grains
+sirloin steak,1070,other
+kahlua,1071,other
+crunchy peanut butter,1072,dairy
+orange extract,1073,other
+taco shells,1074,other
+sweet chili sauce,1075,other
+apple butter,1076,dairy
+maple,1077,other
+clear honey,1078,condiments
+m&m candies,1079,other
+walnut oil,1080,oils
+dill pickle,1081,herbs
+black eyed peas,1082,produce
+miso,1083,other
+fingerling potatoes,1084,produce
+chipotle chili powder,1085,other
+ranch,1086,other
+chocolate hazelnut spread,1087,other
+arrowroot powder,1088,other
+sparkling wine,1089,other
+dark corn syrup,1090,produce
+butter lettuce,1091,produce
+unbleached all purpose flour,1092,baking
+asian pear,1093,other
+sprouts,1094,other
+turkey sausage,1095,meats
+ramen noodles,1096,other
+crimini mushrooms,1097,produce
+soba noodles,1098,other
+chile garlic sauce,1099,produce
+canadian bacon,1100,meats
+filo dough,1101,other
+red kidney beans,1102,other
+beef tenderloin,1103,meats
+dark chocolate bar,1104,other
+ginger powder,1105,spices
+white onions,1106,produce
+cinnamon roll,1107,spices
+hungarian paprika,1108,spices
+sugar cookie dough,1109,baking
+palm sugar,1110,baking
+cashew nuts,1111,other
+baby corn,1112,produce
+turkey bacon,1113,meats
+nori,1114,other
+serrano chiles,1115,other
+tempeh,1116,other
+angel food cake,1117,other
+canned red kidney beans,1118,other
+romaine lettuce leaves,1119,produce
+mango chutney,1120,other
+deli turkey,1121,meats
+pita,1122,other
+espresso,1123,other
+breakfast sausage,1124,meats
+shiitake mushroom caps,1125,produce
+mild cheddar cheese,1126,dairy
+candy corn,1127,produce
+red delicious apple,1128,other
+ahi tuna steaks,1129,seafood
+ritz crackers,1130,other
+white cheddar cheese,1131,dairy
+stevia extract,1132,other
+onion salt,1133,produce
+sweet tea,1134,other
+parsley flakes,1135,herbs
+tomato & basil sauce,1136,produce
+salad oil,1137,other
+besan,1139,other
+wraps,1140,other
+skirt steak,1141,other
+celery root,1142,produce
+beetroot,1143,other
+kaffir lime leaves,1144,herbs
+saltine crackers,1145,other
+rose hips,1146,other
+chickpea flour,1147,baking
+cornbread,1148,produce
+lemon lime soda,1149,other
+turnip,1150,other
+tofu skin,1151,other
+hot dog buns,1152,other
+red delicious apples,1153,other
+green chili,1154,other
+barley,1155,grains
+crescent rolls,1156,other
+rub,1157,other
+chili oil,1158,other
+apple pie filling,1159,other
+red skinned potatoes,1160,produce
+candy coated chocolate pieces,1161,other
+sausages,1162,meats
+crab,1165,seafood
+baby peas,1166,produce
+lavender,1167,herbs
+steak sauce,1168,other
+duck,1169,meats
+mat bean,1170,other
+chicken legs,1171,meats
+cinnamon powder,1172,spices
+chocolate frosting,1173,other
+chili garlic sauce,1175,produce
+guar gum,1176,other
+pickled jalapenos,1177,other
+nut butter,1178,dairy
+tamari soy sauce,1179,condiments
+banana bread,1180,other
+marsala wine,1181,other
+wheat bran,1182,grains
+barbeque sauce,1183,other
+savoy cabbage,1184,produce
+red chilies,1185,other
+anchovies,1186,seafood
+amaretto,1187,other
+rocket,1188,other
+buckwheat flour,1189,baking
+sorghum flour,1190,baking
+chili beans,1191,other
+nectarines,1192,other
+chestnuts,1193,other
+anchovy paste,1194,other
+mexican cheese,1195,dairy
+condensed cream of celery soup,1196,produce
+broccoli rabe,1197,produce
+alo drink,1198,other
+applewood smoked bacon,1199,meats
+purple cabbage,1200,produce
+semolina,1201,grains
+raspberry preserves,1202,other
+hominy,1203,other
+chorizo sausage,1204,meats
+process american cheese,1205,dairy
+turkey burgers,1206,meats
+garbanzo beans,1207,other
+pitas,1208,other
+gnocchi,1209,other
+halibut fillets,1210,other
+pickles,1211,condiments
+romaine hearts,1212,other
+oat bran,1213,other
+rib tip,1214,other
+juniper berries,1215,other
+flax seeds,1216,other
+chili peppers,1217,spices
+serrano pepper,1218,spices
+oil cured black olives,1219,other
+baker's white chocolate,1220,other
+sandwich bun,1221,other
+gravy,1222,other
+cherry juice,1223,other
+lettuce leaf,1224,produce
+stewed tomatoes,1225,produce
+roasted cashews,1226,nuts
+wrap,1227,other
+masa harina,1228,other
+coffee liqueur,1229,other
+tabasco,1230,other
+picante sauce,1231,other
+bottled garlic,1233,produce
+long pasta,1234,other
+bicarbonate of soda,1235,other
+lemonade,1236,other
+natural spices,1237,other
+shaoxing wine,1238,other
+blueberry,1239,other
+monterey jack,1240,other
+tamarind,1241,other
+bread dough,1242,other
+cashew butter,1243,dairy
+bulgur,1244,grains
+thai chili,1245,produce
+sweet chilli sauce,1246,other
+chipotle chiles in adobo,1247,other
+lemon pie filling,1248,other
+chocolate covered raisins,1249,other
+milk powder,1250,dairy
+almond bark,1251,other
+salad kit,1252,other
+escarole,1253,other
+cream of potato soup,1254,produce
+extra sharp cheddar cheese,1255,dairy
+buttermilk biscuits,1256,dairy
+pomegranate,1257,other
+fun size almond joy bar,1258,other
+patty pan squash,1259,other
+splenda,1260,other
+dry vermouth,1261,other
+hash browns,1262,other
+plantains,1263,other
+almond paste,1264,other
+hing,1265,other
+poblano chiles,1266,other
+maple extract,1267,other
+coconut palm sugar,1268,nuts
+pulled pork,1269,meats
+reese pieces,1270,other
+beef short ribs,1271,meats
+mandarin oranges,1272,other
+white beans,1273,other
+sesame seed,1274,other
+short grain rice,1275,grains
+sweet cherries,1276,other
+golden syrup,1277,other
+spiced rum,1278,other
+cheddar cheese soup,1279,dairy
+real bacon bits,1280,meats
+pomegranate arils,1281,other
+mustard seed,1282,condiments
+grilling cheese,1283,dairy
+purple onion,1284,produce
+fish stock,1285,broths
+navel orange,1286,other
+powdered milk,1287,dairy
+rock salt,1288,other
+pecorino romano,1289,other
+bean curd,1290,other
+celery seeds,1291,produce
+baking potato,1292,produce
+chow mein noodles,1293,other
+ancho chili powder,1294,other
+littleneck clams,1295,seafood
+pasta shells,1296,other
+roasting chicken,1297,meats
+pork shoulder roast,1298,meats
+ale,1299,other
+dulce de leche,1300,other
+lentil,1301,other
+top round steak,1302,other
+whey protein powder,1303,other
+chocolate sandwich cookies,1304,other
+veal,1305,meats
+white button mushrooms,1306,produce
+fruit cocktail,1307,other
+chervil,1308,other
+cookie crumbs,1309,other
+vanilla pod,1310,other
+chile pepper,1311,spices
+white miso,1312,other
+cashew,1313,other
+flax seed meal,1314,other
+lemon grass,1315,other
+green apple,1316,other
+splenda brown sugar blend,1317,baking
+lamb chops,1318,meats
+roasted chicken,1319,meats
+cob corn,1320,produce
+pie crusts,1321,other
+colby monterey jack cheese,1322,dairy
+vanilla wafer cookies,1323,other
+peas and carrots,1324,produce
+blood orange juice,1325,other
+stew meat,1326,other
+quinoa flakes,1327,grains
+blood orange,1328,other
+burger buns,1329,other
+manchego cheese,1330,dairy
+grainy mustard,1331,condiments
+cream of coconut,1332,dairy
+self raising flour,1333,baking
+beef heart,1334,meats
+no bake cookie,1335,other
+arrowroot,1336,other
+yukon gold,1337,other
+sweetened whipped cream,1338,dairy
+pickle relish,1339,condiments
+white sesame seeds,1340,nuts
+root beer,1341,other
+green cardamoms,1342,spices
+fish fillets,1343,other
+gorgonzola,1344,other
+pomegranate molasses,1345,baking
+squid,1346,seafood
+dinner yeast rolls,1347,baking
+french baguette,1348,breads
+blue cheese crumbles,1349,dairy
+vanilla paste,1350,other
+ear corn,1351,produce
+honeydew melon,1352,condiments
+portobello mushroom caps,1353,produce
+velveeta cheese,1354,dairy
+veggie lunch meat,1355,other
+demerara sugar,1356,baking
+semisweet chocolate morsels,1357,other
+bacon rashers,1358,meats
+rose water,1359,other
+pecorino cheese,1360,dairy
+chipotle,1361,other
+rosemary leaves,1362,herbs
+beef bouillon granules,1363,meats
+vinaigrette,1364,condiments
+rutabaga,1365,other
+belgian endive,1366,produce
+salmon filets,1367,seafood
+vanilla sugar,1368,baking
+idaho potatoes,1369,produce
+shells,1370,other
+white potatoes,1371,produce
+caramel topping,1372,other
+short ribs,1374,other
+arugula leaves,1375,other
+chipotle pepper in adobo,1376,spices
+pastry flour,1377,baking
+palm oil,1378,other
+red enchilada sauce,1379,other
+matzo meal,1380,other
+bibb lettuce,1381,produce
+beef tenderloin steaks,1382,meats
+slider buns,1383,other
+beef bouillon,1384,meats
+dry cider,1385,other
+tamarind paste,1386,other
+halibut,1387,other
+blue cheese dressing,1388,dairy
+rice vermicelli,1389,grains
+dog,1390,other
+red apple,1391,other
+buffalo wing sauce,1392,other
+flax meal,1393,other
+cornflakes,1394,produce
+mango powder,1395,other
+frisee,1396,other
+yoghurt,1397,other
+colored sprinkles,1398,other
+chocolate sauce,1399,other
+green tomatoes,1400,produce
+chicken cutlets,1401,meats
+chocolate shavings,1402,other
+rye flour,1403,baking
+unbaked pie crust,1404,other
+brown rice syrup,1405,grains
+celery leaves,1406,produce
+candied cherries,1407,other
+bone broth,1408,broths
+oreo,1409,other
+ancho chiles,1410,other
+chard,1411,other
+country ham,1412,meats
+candied ginger,1413,spices
+creme soda,1414,other
+pesto sauce,1415,condiments
+neufchatel cheese,1416,dairy
+sea bass,1417,other
+grenadine,1418,other
+brown lentils,1419,other
+fava beans,1420,other
+farfalle pasta,1421,other
+havarti cheese,1422,dairy
+bitters,1423,other
+ginger beer,1424,spices
+kielbasa,1425,other
+corn tortilla chips,1426,produce
+methi,1427,other
+warm water,1428,other
+beef sirloin tip roast,1429,meats
+peanut,1430,other
+worcestershire,1431,other
+angostura bitters,1432,other
+lima beans,1433,other
+dark beer,1434,other
+coconut rum,1435,nuts
+baby greens,1436,other
+shell topping,1437,other
+stew vegetables,1438,other
+port wine,1439,other
+active dry yeast,1441,baking
+creamed corn,1442,produce
+chipotle chile in adobo,1443,other
+unbaked pie shell,1444,other
+tater tots,1445,other
+string beans,1446,other
+taro,1447,other
+spice blend,1448,other
+rice drink,1449,grains
+bosc pears,1450,other
+sweet pickle juice from the jar,1451,other
+mint extract,1452,herbs
+mung bean sprouts,1453,other
+yam bean,1454,other
+millet,1455,grains
+risotto rice,1456,grains
+rolls,1457,other
+chocolate wafers,1458,other
+pecorino,1459,other
+unsweetened baking cocoa,1460,other
+catfish fillets,1461,seafood
+peppermint candies,1462,spices
+bread machine yeast,1463,baking
+dutch processed cocoa powder,1464,baking
+red chile,1465,other
+arrowroot starch,1466,other
+beans,1467,other
+truvia,1468,other
+frozen waffles,1469,other
+pistachio nuts,1470,other
+italian turkey sausage,1471,meats
+southern comfort,1472,other
+oyster mushrooms,1473,produce
+celeriac,1474,other
+ladyfingers,1475,other
+cinnamon rolls,1476,spices
+mac n cheese,1478,dairy
+sweetened coconut flakes,1479,nuts
+baby back pork ribs,1480,meats
+provolone,1481,dairy
+soda water,1482,other
+vital wheat gluten,1483,grains
+fenugreek leaves,1484,other
+deep dish pie shell,1485,other
+pea protein,1486,other
+haricots verts,1487,other
+EVOO,1488,other
+roasted red bell pepper,1489,spices
+poultry,1490,other
+kiwifruit,1492,other
+no calorie sweetener,1494,other
+dutch process cocoa,1495,other
+roast chicken,1496,meats
+candy cane,1497,other
+spam,1498,other
+sesame seed oil,1499,other
+ranch salad dressing,1500,other
+chile peppers,1501,spices
+pretzel,1502,other
+potato flakes,1503,produce
+blood oranges,1504,other
+gala apples,1505,other
+creole mustard,1506,condiments
+dark molasses,1507,baking
+grape seed oil,1508,other
+corn meal,1509,produce
+caesar salad dressing,1510,other
+corn flakes,1511,produce
+turkey stock,1512,meats
+grits,1513,other
+crescent roll dough,1514,other
+noodle,1515,other
+lemon wedge,1516,other
+hamburger meat,1517,meats
+virgin olive oil,1518,oils
+bacon grease,1519,meats
+gouda,1520,other
+crispy rice cereal,1521,grains
+snap peas,1522,produce
+vidalia,1523,other
+bisquick,1524,other
+buttery round crackers,1525,dairy
+egg roll wrappers,1526,other
+brown onion,1527,produce
+strawberry preserves,1528,other
+bacon drippings,1529,meats
+thousand island dressing,1530,other
+fries,1531,other
+red currant jelly,1532,other
+red chili,1534,other
+beef base,1535,meats
+apple sauce,1537,other
+crab meat,1538,seafood
+peanut sauce,1539,other
+red capsicum,1541,other
+daikon radish,1542,other
+kiwis,1543,other
+sumac,1544,other
+baby cut carrots,1545,produce
+no salt added diced tomatoes,1546,produce
+pimiento,1547,other
+black mustard seeds,1548,condiments
+lite coconut milk,1549,dairy
+high gluten flour,1550,baking
+vanilla beans,1551,other
+butter flavor shortening,1552,dairy
+soymilk,1553,dairy
+meyer lemon juice,1554,other
+gingersnap cookies,1555,spices
+buffalo sauce,1556,other
+pretzel twists,1557,other
+sherry wine vinegar,1558,other
+croissants,1559,breads
+rigatoni,1560,other
+natural yogurt,1561,dairy
+angel hair,1562,other
+instant coffee powder,1563,other
+korean marinade,1565,other
+shortbread cookies,1566,other
+bay scallops,1567,seafood
+chocolate wafer cookies,1568,other
+yams,1569,other
+broccoli slaw,1570,produce
+cheese ravioli,1571,dairy
+chocolate mint,1572,herbs
+red chile flakes,1573,other
+grape juice,1574,other
+fig spread,1575,other
+semolina flour,1576,baking
+napa cabbage leaves,1577,produce
+red chiles,1578,other
+bow tie pasta,1579,other
+fudge ice cream topping,1580,dairy
+roast beef deli slices,1581,meats
+nacho cheese sauce,1582,dairy
+cow pea,1583,other
+hot fudge sauce,1584,other
+boston lettuce,1585,produce
+clabber girl baking powder,1586,baking
+broccolini,1587,produce
+yukon gold potato,1588,produce
+walnut,1589,other
+chocolate protein powder,1590,other
+peach schnapps,1591,other
+pork loin roast,1592,meats
+cream cheese frosting,1593,dairy
+raw pumpkin seeds,1594,nuts
+duck breast,1596,meats
+kalamata olive,1597,produce
+pimento,1598,dairy
+marsala,1599,other
+baked chicken breast,1600,meats
+chicken livers,1601,meats
+endive,1602,produce
+leftover fried rice,1603,grains
+ham bone,1604,meats
+vanilla cream filled sandwich style cookies,1605,dairy
+orange blossom water,1606,other
+candied orange peel,1607,other
+chicken breast meat,1608,meats
+smoked ham,1609,meats
+carom seeds,1610,other
+ciabatta bread,1611,breads
+edible gold,1612,other
+lamb shoulder,1613,meats
+plum,1614,other
+pickled ginger,1615,spices
+sesame,1616,other
+lacinato kale,1617,other
+catsup,1618,other
+crepes,1619,other
+mace,1620,other
+rainbow sprinkles,1621,other
+dashi,1622,broths
+swerve,1623,other
+caraway seed,1624,other
+arrowroot flour,1625,baking
+english muffin,1626,breads
+rustic loaf,1627,other
+sandwich rolls,1628,other
+instant espresso,1629,other
+caviar,1630,other
+pita chips,1631,other
+limeade concentrate,1632,other
+dill pickle relish,1633,condiments
+lady fingers,1634,other
+spiral pasta,1635,other
+maple sugar,1636,baking
+spaghetti noodles,1637,other
+bartlett pears,1638,other
+turkey meat,1639,meats
+pasta water,1640,other
+chicken base,1641,meats
+cola,1642,other
+cheese curd,1643,dairy
+lobster,1644,seafood
+petite peas,1645,produce
+courgettes,1646,other
+tortilla,1647,breads
+serrano peppers,1648,spices
+cream of celery soup,1649,produce
+malted milk powder,1650,dairy
+green chile peppers,1651,spices
+zucchini squash,1652,produce
+single cream,1653,dairy
+chocolate curls,1654,other
+sole,1655,other
+liquor,1656,other
+sourdough starter,1657,other
+lamb shanks,1658,meats
+peach preserves,1659,other
+bouquet garni,1660,other
+vanilla powder,1661,other
+caesar dressing,1662,other
+clementines,1663,other
+cake flour blend,1664,baking
+yam,1665,other
+brussel sprouts,1666,other
+shrimps,1667,seafood
+microwave popcorn,1668,produce
+shortcrust pastry,1669,other
+graham cracker,1670,meats
+tarragon leaves,1671,herbs
+navy beans,1672,other
+unsweetened baking chocolate,1673,other
+duck breasts,1674,meats
+chickpea,1675,other
+trout filet,1676,seafood
+lump crab meat,1677,seafood
+red apples,1678,other
+preserves,1679,other
+coriander seed,1680,spices
+popcorn kernels,1681,produce
+canned white cannellini beans,1682,other
+rice chex,1683,grains
+sushi rice,1684,grains
+brioche,1685,breads
+gochujang,1686,other
+allspice berries,1687,spices
+chicken tenderloins,1688,meats
+english cucumbers,1689,produce
+vidalia onions,1690,produce
+flax seed,1691,other
+italian sausage links,1692,meats
+aged balsamic vinegar,1693,other
+sorbet,1694,other
+brown mustard seeds,1695,condiments
+crisco,1696,other
+maraschino cherry,1697,other
+millet flour,1698,baking
+glass noodles,1699,other
+greek olives,1700,produce
+strawberry ice cream,1701,dairy
+biscuit dough,1702,other
+plantain,1703,other
+unsalted pistachios,1704,nuts
+flax egg,1705,other
+gelatine,1706,other
+naan,1708,breads
+tamarind pulp,1709,other
+self rising flour,1710,baking
+cashew milk,1711,dairy
+bagels,1712,other
+shell pasta,1713,other
+sherry wine,1714,other
+wasabi paste,1715,other
+graham cracker pie crust,1716,meats
+mustard greens,1717,condiments
+polish sausage,1718,meats
+pea pods,1719,other
+lobster meat,1720,seafood
+wasabi,1721,other
+unsalted peanuts,1722,nuts
+quick cooking grits,1723,other
+m&m's,1724,other
+daikon,1725,other
+sultanas,1726,other
+stout beer,1727,other
+green cardamom pods,1728,spices
+rice milk,1729,dairy
+flavor shot,1730,other
+flake coconut,1731,nuts
+courgette,1732,other
+campari,1733,other
+beefsteak tomatoes,1734,meats
+five spice powder,1735,other
+alfalfa sprouts,1736,other
+lobster tails,1737,seafood
+AP flour,1738,baking
+poblano chile,1739,other
+raspberry vinegar,1740,other
+whey protein,1741,other
+italian sausages,1742,meats
+delicata squash,1743,other
+canned crabmeat,1744,seafood
+beef round roast,1745,meats
+soy pudding,1746,other
+muenster cheese,1747,dairy
+seltzer water,1748,other
+kirsch,1749,other
+apple jelly,1750,other
+udon noodles,1751,other
+rapeseed oil,1752,other
+strawberry yogurt,1753,dairy
+pickle,1754,other
+mustard oil,1755,condiments
+pimentos,1756,other
+malt vinegar,1757,other
+italian herbs,1758,other
+maple flavoring,1759,other
+fig,1760,other
+habanero pepper,1761,spices
+galangal,1762,other
+sriracha hot sauce,1763,condiments
+tahini paste,1764,condiments
+pecan nuts,1765,other
+turkey breast cutlets,1766,meats
+cornish game hens,1767,produce
+jumbo pasta shells,1768,other
+strawberry fruit spread,1769,other
+rigatoni pasta,1770,other
+texas toast,1771,other
+baby back ribs,1772,other
+craisins,1773,other
+taco cheese,1774,dairy
+red beets,1775,produce
+hemp hearts,1776,produce
+german chocolate,1777,other
+heath bar,1778,other
+sandwich buns,1779,other
+cupcake,1780,other
+flour tortilla,1781,baking
+mexican cream,1782,dairy
+green tea,1783,other
+wedding cookies,1784,other
+buffalo chicken sauce,1785,meats
+pineapple rings,1786,other
+fire roasted tomatoes,1787,produce
+colby cheese,1788,dairy
+white grape juice,1789,other
+mexican crema,1790,other
+horseradish sauce,1791,other
+potato salad,1793,produce
+london broil,1794,other
+puff pastry sheets,1795,other
+custard,1796,other
+cat fish,1797,other
+brown gravy,1798,other
+sweet butter,1799,dairy
+kimchi,1800,other
+portabella mushrooms,1801,produce
+chocolate sprinkles,1802,other
+wasabi powder,1803,other
+pumpernickel bread,1804,other
+lasagna pasta,1805,other
+baby arugula leaves,1806,other
+bagel,1807,other
+coconut milk beverage,1808,dairy
+pistachio,1809,other
+granulated onion,1810,produce
+green curry paste,1811,other
+imitation crabmeat,1812,seafood
+shucked oysters,1813,seafood
+petite tomatoes,1814,produce
+venison,1815,meats
+beef consomme,1816,meats
+orange food coloring,1817,other
+strawberry gelatin,1818,other
+gala apple,1819,other
+sub roll,1820,other
+french roll,1821,other
+butterscotch,1822,dairy
+soya sauce,1823,other
+rib eye,1824,other
+pork roast,1825,meats
+seaweed,1826,other
+unsweetened apple sauce,1827,other
+extra large egg,1828,other
+apricot nectar,1829,other
+cracker crumbs,1830,other
+pepperoncini,1831,spices
+cloves garlic,1832,spices
+liquid egg whites,1833,other
+corned beef brisket,1834,meats
+cheese dip,1835,dairy
+fudge topping,1836,other
+amaretto liqueur,1837,other
+foie gras,1838,other
+grape jelly,1839,other
+coca cola,1840,other
+matcha powder,1841,other
+gingersnaps,1842,spices
+brown mustard seed,1843,condiments
+canned navy beans,1844,other
+red sweet peppers,1845,spices
+green onion tops,1846,produce
+blueberry pie filling,1847,other
+salt pork,1848,meats
+twix bar,1849,other
+peppercorn,1850,spices
+tangerine juice,1851,other
+israeli couscous,1852,grains
+crawfish tails,1853,seafood
+cornish hens,1854,produce
+spicy pepper,1855,spices
+pie dough round,1856,other
+almond meal flour,1857,baking
+m&ms,1858,other
+pine nut,1859,other
+aubergine,1860,other
+fusilli pasta,1861,other
+burger skillet,1862,other
+salmon steaks,1863,seafood
+dark muscovado sugar,1864,baking
+turkish bay leaf,1865,herbs
+red potato,1866,produce
+canned salmon,1867,seafood
+meat balls,1868,other
+pea shoots,1869,other
+white peppercorns,1870,spices
+white cheddar,1871,dairy
+coffee flavored liqueur,1872,other
+toffee,1873,other
+limoncello,1874,other
+lemon thyme,1875,herbs
+brown mushrooms,1876,produce
+banana peppers,1877,spices
+kumquats,1878,other
+ciabatta,1879,breads
+grape,1880,other
+liquid honey,1881,condiments
+rabbit,1882,meats
+garlic oil,1883,produce
+cedar plank,1884,other
+boursin herb cheese,1885,dairy
+lemon oil,1886,other
+condensed french onion soup,1887,produce
+ravioli,1888,other
+yogurt smoothie,1889,dairy
+veal stock,1890,meats
+citric acid,1891,other
+beet root,1892,other
+cherry preserves,1893,other
+buckwheat,1894,grains
+serrano ham,1895,meats
+brine,1896,other
+red food color,1897,other
+haddock,1898,other
+kombu,1899,other
+tarragon vinegar,1900,herbs
+flatbread,1901,breads
+tartar sauce,1902,other
+swordfish steaks,1903,other
+short pasta,1904,other
+crusty rolls,1905,other
+hawaiian rolls,1906,other
+red chili pepper,1907,spices
+cornichons,1908,produce
+baby artichokes,1909,other
+orange pepper,1910,spices
+cherry tomato,1911,produce
+demi glace,1912,other
+butter lettuce leaves,1913,produce
+sweet rice flour,1914,baking
+salmon filet,1915,seafood
+pork and beans,1916,meats
+buffalo,1917,other
+spring roll wrappers,1918,other
+ghee butter,1919,dairy
+blackberry jam,1920,condiments
+corn muffins,1921,produce
+multigrain bread,1922,breads
+rotini,1923,other
+pork rinds,1924,meats
+fuji apple,1925,other
+tapioca,1926,other
+red snapper fillets,1927,other
+black licorice,1928,grains
+pork sausages,1929,meats
+za'atar,1930,other
+file powder,1931,other
+colby jack,1932,other
+bibb lettuce leaves,1933,produce
+baguettes,1934,breads
+calvados,1935,other
+white cabbage,1936,produce
+beef gravy,1937,meats
+veggie patty,1938,other
+meyer lemon,1939,other
+scallion greens,1940,other
+flax eggs,1941,other
+tomatillo salsa,1942,condiments
+natural cane sugar,1943,baking
+flaxseed,1944,other
+pork chop,1945,meats
+ham steak,1946,meats
+sucanat,1947,other
+string cheese,1948,dairy
+ziti,1949,other
+chestnut mushrooms,1950,produce
+phyllo pastry,1951,other
+green apples,1952,other
+chick peas,1953,produce
+chicken sausages,1954,meats
+chipotle pepper,1955,spices
+frying oil,1956,other
+ahi tuna,1957,seafood
+chicken thigh,1958,meats
+brewed House Blend,1959,other
+chipotle peppers,1960,spices
+goji berries,1961,other
+golden beet,1962,other
+burger bun,1963,other
+chocolate wafer crumbs,1964,other
+chia seed,1965,other
+powdered ginger,1966,spices
+semi sweet chocolate morsels,1967,other
+guajillo chiles,1968,spices
+pepperoncini peppers,1969,other
+solid white tuna packed in water,1970,seafood
+agar,1971,other
+nilla wafers,1972,other
+striped bass,1973,seafood
+kohlrabi,1974,produce
+chicken strips,1975,meats
+golden beets,1976,produce
+baked tortilla chips,1978,breads
+coconut coffee creamer,1979,dairy
+bread bowls,1980,other
+phyllo cups,1981,other
+pepperjack cheese,1982,dairy
+kabocha squash,1983,other
+sirloin steaks,1984,other
+onion flakes,1985,produce
+tortellini,1987,other
+reese's pieces,1988,other
+hearts of palm,1989,produce
+meat ball,1990,other
+tangerines,1991,produce
+baby beets,1992,produce
+breadcrumb,1993,other
+orange bell peppers,1994,spices
+queso fresco cheese,1995,dairy
+sponge cake,1996,other
+mango puree,1997,other
+soy buttery spread,1998,dairy
+calamari,1999,seafood
+grapefruits,2000,other
+crème de cacao,2001,other
+bulgur wheat,2003,grains
+chicken leg quarters,2004,meats
+Biscoff spread,2005,other
+wax gourd,2006,other
+white fish fillets,2007,other
+orange sections,2008,other
+bird's eye chile,2009,other
+stout,2010,other
+oreo cookie,2011,other
+leafy greens,2012,other
+canned butter beans,2013,dairy
+broad beans,2014,other
+banana chips,2015,other
+sweet soy sauce,2016,condiments
+tangerine,2017,produce
+lamb stew meat,2018,meats
+passata,2020,other
+roasted pumpkin seeds,2021,nuts
+ziti pasta,2022,other
+plum sauce,2023,other
+Barbeque Dipping Sauce,2024,other
+turkey gravy,2025,meats
+ciabatta rolls,2026,breads
+snickers,2027,other
+lobsters,2028,seafood
+ricotta salata,2029,dairy
+macaroni n cheese,2030,dairy
+dogs,2031,other
+mild cheddar,2032,dairy
+hershey's cocoa,2033,other
+waxy potatoes,2034,produce
+peach nectar,2035,other
+green grams,2036,other
+curly parsley,2037,herbs
+turkey pepperoni,2038,spices
+crema,2039,other
+ginger juice,2040,spices
+farfalle,2041,other
+vinaigrette dressing,2042,condiments
+anise seeds,2043,spices
+oil packed tuna,2045,seafood
+crème de menthe,2046,other
+masa flour,2047,baking
+mandarin orange segments,2048,other
+sourdough loaf,2049,other
+arbol chiles,2050,other
+all spice,2051,other
+corn bread,2053,produce
+belgian endives,2054,produce
+frozen vanilla yogurt,2055,dairy
+pickle juice,2057,other
+honeydew,2058,produce
+braggs liquid aminos,2060,other
+hazelnut,2061,other
+red snapper,2062,other
+duck legs,2063,meats
+hazelnut liqueur,2064,other
+red chilli flakes,2065,other
+top sirloin steak,2066,other
+tree nuts,2067,other
+halloumi cheese,2068,dairy
+unsulphured molasses,2069,baking
+turkey broth,2070,meats
+bottom round roast,2071,other
+egg replacer,2072,other
+cornflakes cereal,2073,produce
+aioli,2074,other
+flat beans,2075,other
+cajun spice,2076,other
+unsulfured molasses,2077,baking
+madeira,2078,other
+pink lady apple,2079,other
+gumdrops,2080,other
+black forest ham,2081,meats
+finger chili,2082,other
+wood apple,2083,other
+mince beef,2084,meats
+raspberry liqueur,2085,other
+monk fruit extract,2086,other
+corn cereal,2087,produce
+soured cream,2088,dairy
+fruit pectin,2089,other
+hershey kisses,2090,other
+powdered fruit pectin,2091,other
+iced tea,2092,other
+tortilla strips,2093,breads
+chicory,2094,other
+red chile pepper,2095,spices
+xylitol,2096,other
+caramelized onions,2097,produce
+soy beans,2098,other
+puffed rice cereal,2099,grains
+chocolate cookie pie crust,2100,other
+hot dog,2101,other
+portobello mushroom cap,2102,produce
+Oven Roasted Chicken Breast,2103,meats
+chive,2104,other
+green bean pieces,2105,other
+sea bass fillets,2106,other
+orange bitters,2107,other
+marzipan,2108,other
+pimenton de la vera,2109,other
+candied fruit,2110,other
+pinot noir,2111,other
+salted cashews,2112,nuts
+puff pastry shells,2113,other
+lamb loin chops,2114,meats
+sugar syrup,2115,baking
+matcha,2116,other
+wheat flatbreads,2117,grains
+chile flakes,2118,other
+M&M'S Chocolate Candies,2119,other
+canned beans,2120,other
+heirloom tomato,2121,produce
+fusilli,2122,other
+tart shells,2123,other
+anise seed,2124,spices
+star apple,2125,other
+sweet potato puree,2126,produce
+cob sweetcorn,2127,produce
+musk melon,2128,other
+prime rib,2129,other
+kraft singles,2130,other
+saltines,2131,other
+flat iron steak,2132,other
+orange roughy,2133,other
+wheat berries,2134,grains
+italian tomatoes,2135,produce
+boston lettuce leaves,2136,produce
+plant oil,2137,other
+honey dijon mustard,2138,condiments
+caramel candies,2139,other
+naan bread,2140,breads
+canned red beans,2141,other
+green enchilada sauce,2142,other
+coffee beans,2143,other
+pectin,2144,other
+beef hot dogs,2145,meats
+strawberry puree,2146,other
+quick cooking barley,2147,grains
+digestive biscuits,2148,other
+red leaf lettuce,2149,produce
+ham hock,2150,meats
+caster sugar,2151,baking
+curacao,2152,other
+roast pork,2153,meats
+golden delicious apple,2154,other
+velveeta,2155,other
+canned albacore tuna,2157,seafood
+turkey thighs,2158,meats
+kefir,2159,other
+calumet baking powder,2160,baking
+zucchini noodles,2161,produce
+carrot juice,2162,produce
+psyllium husk powder,2163,other
+tumeric,2164,other
+mini chocolate chips,2165,baking
+custard powder,2166,other
+butter flavored shortening,2167,dairy
+cassava flour,2168,baking
+enoki mushrooms,2169,produce
+ramps,2170,other
+almond joy bar,2171,other
+browning sauce,2172,other
+clove,2173,other
+celery ribs,2174,produce
+elbow pasta,2175,other
+ramen,2176,other
+hazelnut oil,2177,other
+nutritional yeast flakes,2178,baking
+bottle gourd,2179,other
+sugar pumpkin,2180,baking
+ice cream cones,2181,dairy
+romano,2182,other
+puff pastry shell,2183,other
+full bodied red wine,2184,other
+preserved lemon,2185,other
+ditalini pasta,2186,other
+matcha tea,2187,other
+lemon essence,2188,other
+sirloin,2189,other
+catfish,2190,seafood
+chicken bites,2191,meats
+tomatoes in juice,2192,produce
+corn tortilla,2193,produce
+frozen baby lima beans,2194,other
+ponzu sauce,2195,other
+stevia drops,2196,other
+garden cress seed,2197,other
+red cinnamon candies,2199,spices
+persimmons,2200,other
+hamburger bun,2201,meats
+besan gram flour,2202,baking
+orecchiette,2203,other
+egg pastry,2204,other
+roast turkey breast,2205,meats
+guinness,2206,other
+farmers cheese,2207,dairy
+nectarine,2208,other
+pickled beets,2209,produce
+andes mints,2210,herbs
+wax beans,2211,other
+butter nut pumpkin,2212,dairy
+sweet cream butter,2213,dairy
+cocoa nibs,2214,other
+pimento cheese spread,2215,dairy
+natural yoghurt,2216,other
+sherbet,2217,other
+orecchiette pasta,2218,other
+pepper rings,2219,spices
+white corn tortillas,2220,produce
+spelt,2221,grains
+watercress leaves,2223,other
+chevre,2224,other
+canned chick peas,2225,produce
+orange segments,2226,other
+biscuit,2227,other
+puff pastry dough,2228,other
+merlot,2229,other
+lamb rib chops,2230,meats
+rainbow trout,2231,seafood
+lillet blanc,2232,other
+chai tea,2233,other
+farm raised catfish filet,2234,seafood
+evaporated cane juice,2235,other
+candied pecans,2236,nuts
+chocolate morsels,2237,other
+anjou pears,2238,other
+mackerel,2239,other
+bean thread noodles,2240,other
+oyster crackers,2241,other
+bourbon vanilla extract,2242,baking
+black vinegar,2243,other
+long grain brown rice,2244,grains
+alfredo pasta sauce,2245,other
+wheat gluten,2246,grains
+mayonaise,2247,other
+trout fillets,2248,seafood
+beefsteak tomato,2249,meats
+orange flavor gelatin,2250,other
+jelly beans,2251,other
+caramel syrup,2252,other
+grenadine syrup,2253,other
+chanterelle mushrooms,2254,produce
+aleppo pepper,2255,spices
+chex wheat cereal,2256,grains
+piquillo peppers,2257,spices
+chipotle in adobo,2258,other
+bacon pieces,2259,meats
+cream sherry,2260,dairy
+cracked pepper,2261,spices
+turkey kielbasa,2262,meats
+patis,2263,other
+live lobsters,2264,seafood
+green peppercorns,2265,spices
+pork skins,2266,meats
+chocolate covered caramel candy,2267,other
+bratwurst,2268,other
+tia maria,2269,other
+shrimp paste,2270,seafood
+pepper jack,2271,spices
+broccoli crowns,2272,produce
+ahi tuna steak,2273,seafood
+chocolate crumb crust,2274,other
+turkey neck,2275,meats
+hershey cocoa,2276,other
+pernod,2278,other
+dutch processed cocoa,2279,other
+pastry dough,2280,other
+yard long beans,2281,other
+goat's cheese,2282,dairy
+sorghum,2284,grains
+bonito flakes,2285,other
+coco sugar,2286,baking
+cocktail onion,2287,produce
+won ton wrappers,2288,other
+split peas,2289,produce
+ear of corn,2290,produce
+burrata cheese,2291,dairy
+aniseed,2292,spices
+cream style corn,2293,produce
+blackberry,2294,other
+japanese eggplant,2295,produce
+potato gnocchi,2296,produce
+bakers white chocolate,2297,other
+peanut flour,2298,baking
+rutabagas,2299,other
+canned peas,2300,produce
+tri color pasta,2301,other
+chilis,2302,other
+fruit juice,2303,other
+guava,2304,other
+cobs corn,2305,produce
+habanero chile,2306,other
+guinness stout,2307,other
+bleu cheese,2308,dairy
+liver,2309,other
+raisin,2310,other
+dandelion greens,2311,other
+glace cherries,2312,other
+purple plum,2313,other
+ribs,2314,other
+rosewater,2315,other
+banana leaves,2316,other
+garlic puree,2317,produce
+bone in chicken thighs,2318,meats
+seltzer,2319,other
+mung beans,2320,other
+soy chunks,2321,other
+white chocolate morsels,2322,other
+marinated artichokes,2323,other
+serrano chili,2324,other
+canned tomato,2325,produce
+dill pickle juice,2326,herbs
+chardonnay,2327,other
+cheerios,2328,other
+peppermint,2329,spices
+cookie butter,2330,dairy
+pizza cheese,2331,dairy
+artichoke,2332,other
+persian cucumber,2333,produce
+unsweetened soy milk,2334,dairy
+raita,2335,dairy
+goat milk,2339,dairy
+cashew halves,2340,other
+chocolate covered espresso beans,2341,other
+mango nectar,2342,other
+catalina dressing,2343,other
+buns,2344,other
+red chile peppers,2345,spices
+chicken gravy,2346,meats
+soy protein,2347,other
+bran,2348,other
+graham cracker squares,2349,meats
+italian cheese,2350,dairy
+rib eye steaks,2351,other
+golden raisin,2352,other
+raspberry gelatin,2353,other
+canned green chile peppers,2354,spices
+egg beaters,2355,other
+cornish game hen,2356,produce
+chilly powder,2357,other
+strawberry pie filling,2358,other
+pizza crusts,2359,other
+amaranth,2360,grains
+chocolate graham cracker crumbs,2361,meats
+flaxseeds,2362,nuts
+green leaf lettuce,2363,produce
+sukrin,2364,other
+sour milk,2365,dairy
+mahi mahi,2366,seafood
+grape leaves,2367,other
+anaheim chiles,2368,other
+chai,2369,other
+riesling,2370,other
+ribbon fish,2371,seafood
+madeira wine,2372,other
+pumpkin pie filling,2373,other
+morel mushrooms,2374,produce
+powdered peanut butter,2376,baking
+veal cutlets,2377,meats
+coke,2378,other
+butter beans,2379,produce
+chocolate cookie crust,2380,other
+boston butt,2382,other
+gummy worms,2383,other
+peppermint chips,2384,spices
+food colouring,2385,other
+linguini,2386,other
+sardines,2387,seafood
+tostada shells,2388,other
+haddock fillets,2389,other
+cinnamon raisin bread,2390,breads
+vegetable bouillon,2391,broths
+lager,2392,other
+albacore tuna in water,2393,seafood
+fig jam,2395,condiments
+green salsa,2396,condiments
+cracker,2397,other
+corn husks,2398,produce
+cool whip,2399,other
+brazil nuts,2400,nuts
+runny honey,2401,condiments
+prawn,2402,other
+roasted cashew nuts,2403,other
+fig preserves,2404,other
+gingerbread man cookies,2405,spices
+distilled vinegar,2406,other
+paneer cheese,2407,dairy
+pinenuts,2408,other
+bread roll dough,2409,other
+canned white kidney beans,2410,other
+snapper,2411,other
+liquid egg substitute,2412,other
+pickling cucumbers,2413,produce
+green chile,2414,other
+straw mushrooms,2415,produce
+brinjal,2416,other
+green capsicum,2417,other
+whisky,2418,other
+pear nectar,2419,other
+hazel nut milk,2420,dairy
+anise extract,2421,spices
+purple potatoes,2422,produce
+all natural eggs,2423,other
+broccoli crown,2424,produce
+roll,2425,other
+clementine juice,2426,other
+crescent dinner rolls,2427,other
+liquid pectin,2428,other
+won ton wraps,2429,other
+bowtie pasta,2430,other
+beet greens,2431,other
+garlic scapes,2432,produce
+alcohol,2433,other
+french fries,2434,other
+red miso,2435,other
+red bean paste,2436,other
+roquefort cheese,2437,dairy
+milk chocolate morsels,2438,dairy
+black tea bags,2439,other
+iceberg lettuce leaves,2440,produce
+blood orange zest,2441,other
+bosc pear,2442,other
+pastry cream,2443,dairy
+french style green beans,2444,produce
+bone in skin on chicken breasts,2445,meats
+dry milk,2446,dairy
+cola flavored carbonated beverage,2447,other
+oriental sesame oil,2448,oils
+sweet pickles,2449,condiments
+tuna in olive oil,2450,seafood
+mincemeat,2451,other
+ancho chile,2452,other
+nacho chips,2453,other
+hardboiled eggs,2454,other
+candy melting wafers,2455,other
+diced tomatoes with green chilies,2456,produce
+canned beets,2457,produce
+pork mince,2458,meats
+halibut steaks,2459,other
+chex cereal,2460,other
+black rice,2461,grains
+pappardelle,2462,other
+peppermint candy,2463,spices
+poached eggs,2464,other
+strip steak,2465,other
+bitter gourd,2466,other
+spaghetti pasta,2467,other
+jarlsberg cheese,2468,dairy
+amaretti cookies,2469,other
+banana liqueur,2470,other
+brioche buns,2471,breads
+sorrel,2472,other
+sprite,2473,other
+bouillon,2474,broths
+scotch bonnet pepper,2475,spices
+carob chips,2476,other
+smoked trout,2477,seafood
+beef bones,2478,meats
+pear juice,2479,other
+currant,2480,other
+halibut fillet,2482,other
+swordfish,2483,other
+mexicorn,2484,produce
+lamb rack,2485,meats
+shiso leaves,2486,other
+amchur,2487,other
+white shoepeg corn,2488,produce
+prune,2489,other
+sugar cookies,2490,baking
+pastry cup,2491,other
+chambord,2492,meats
+vinaigrette salad dressing,2493,condiments
+mahi mahi fillets,2494,other
+soy yogurt,2495,dairy
+pak choi,2496,other
+sazon,2497,other
+dill seed,2498,herbs
+sprouted grain bread,2499,other
+wheat thin crackers,2500,grains
+corn on the cob,2501,produce
+steel oats,2502,grains
+rump roast,2503,other
+strawberry jello,2504,other
+bartlett pear,2505,other
+seitan,2506,other
+teff flour,2507,baking
+grapefruit zest,2508,other
+cracked wheat,2509,grains
+hot pepper sauce,2510,spices
+puffed rice,2511,grains
+soya flour,2512,baking
+cherry gelatin,2513,other
+cipollini onions,2514,produce
+half and half cream,2515,dairy
+unsweetened almond milk,2516,dairy
+salad,2517,other
+ribeye steaks,2518,other
+chia egg,2519,other
+chocolate ice cream sauce,2520,dairy
+tiger prawns,2521,other
+quail,2522,meats
+poppyseeds,2523,other
+jerusalem artichokes,2524,other
+coffee extract,2525,other
+red grapefruit,2526,other
+rice malt syrup,2527,grains
+biscotti,2528,other
+blue food coloring,2529,other
+icecream sandwiches,2530,dairy
+red pepper paste,2531,spices
+bocconcini,2532,other
+beef shank,2533,meats
+grouper fillets,2534,other
+flax,2535,other
+ripe bananas,2536,other
+shichimi togarashi,2537,other
+spring water,2538,other
+white cornmeal,2539,produce
+pineapple preserves,2540,other
+garbanzo bean flour,2541,baking
+dungeness crabs,2542,seafood
+achiote,2543,other
+ragi,2544,other
+chestnut,2545,other
+green chilis,2546,other
+mortadella,2547,other
+decorating gel,2548,other
+yolk,2549,other
+canned lima beans,2550,other
+racks of lamb,2551,meats
+octopus,2552,seafood
+bee pollen,2553,other
+quince,2554,other
+canned chicken,2555,meats
+asparagus tips,2556,produce
+salted roasted cashews,2557,nuts
+ham hocks,2558,meats
+artichoke heart quarters,2559,other
+pickling spices,2560,other
+eggs yolks,2561,other
+pancake syrup,2562,other
+spirulina,2563,other
+skin on bone in chicken thighs,2564,meats
+rockfish,2565,other
+yuca,2566,other
+olive tapenade,2567,condiments
+quail eggs,2568,meats
+turnip greens,2569,other
+mounds candy bar,2570,other
+almond oil,2571,other
+psyllium husk,2572,other
+peppermint patties,2573,spices
+elk round roast,2574,other
+red plums,2575,other
+prime rib roast,2576,other
+glutinous rice,2577,grains
+shrimp stock,2578,seafood
+smoked ham hocks,2579,meats
+tamarind concentrate,2580,other
+red food colour,2581,other
+penne rigate,2582,other
+fillo shells,2584,other
+cherry jam,2585,condiments
+turkey breast tenderloins,2586,meats
+tagliatelle,2587,other
+microgreens,2588,other
+oat flakes,2589,other
+meatball,2590,other
+carob powder,2591,other
+lemon gelatin,2592,other
+canned chipotle chile,2593,other
+soy creamer,2595,dairy
+standing rib roast,2596,other
+flounder,2597,seafood
+whitefish,2599,other
+scotch,2600,other
+boursin cheese,2601,dairy
+ginger snap cookies,2602,spices
+canned chipotle chiles in adobo,2603,other
+nutri grain cereal,2604,other
+habanero chili,2605,other
+anise,2606,spices
+green food color,2607,other
+bird's eye chili pepper,2608,spices
+cracker sandwiches,2609,other
+squash blossoms,2610,other
+acai juice,2611,other
+caper berries,2612,other
+wakame,2613,other
+chicken bouillon powder,2614,meats
+manila clams,2615,seafood
+lime leaves,2616,herbs
+dill pickle chips,2617,herbs
+yolks,2618,other
+shortcrust pastry case,2619,other
+tomatillo,2620,other
+graham cracker sheets,2621,meats
+turkish bay leaves,2622,other
+watermelon chunks,2623,other
+passion fruit juice,2624,other
+matzo,2625,other
+ready to use pie crust,2626,other
+corn flakes cereal,2627,produce
+burrata,2628,other
+chipotle chilies,2629,other
+orange gelatin,2630,other
+pink lady apples,2631,other
+crostini,2632,breads
+sesame seed paste,2633,other
+flank steaks,2634,other
+shoyu,2635,other
+snapper fillets,2636,other
+caramelized onion,2637,produce
+brown eggs,2638,other
+focaccia,2639,breads
+chicken sausage links,2640,meats
+soy flour,2641,baking
+chayote,2642,produce
+rice protein powder,2643,grains
+black tea,2644,other
+jumbo shells,2645,other
+chocolate glaze,2646,other
+gold potatoes,2647,produce
+egg nog,2648,other
+decorating sugar,2649,baking
+mango pulp,2650,other
+bucatini,2651,other
+mâche,2652,other
+idaho potato,2653,produce
+speck,2655,other
+tzatziki,2657,other
+purified water,2658,other
+asiago,2659,other
+raw prawns,2660,other
+cellophane noodles,2662,other
+ice cream sandwiches,2663,dairy
+jackfruit,2664,other
+cilantro leaf,2665,herbs
+turkey legs,2667,meats
+clementine,2668,other
+chicken breast tenderloins,2669,meats
+chipotle chilies in adobo,2670,other
+mandarin orange,2671,other
+unbaked pie crusts,2672,other
+spring roll paper,2673,other
+coffee powder,2674,other
+black grapes,2675,other
+aubergines,2676,other
+butter flavor vegetable shortening,2677,dairy
+chipotle puree,2678,other
+kelp,2679,other
+pate brisee,2680,other
+pearled barley,2681,grains
+pork loin steaks,2682,meats
+strawberry jelly,2683,other
+beef strip loin,2684,meats
+jimmies,2685,other
+salt cod,2687,seafood
+wings,2688,other
+lebanese cucumber,2689,produce
+stilton cheese,2690,dairy
+toast bread,2691,other
+italian loaf,2692,other
+phyllo shells,2693,other
+cornflake crumbs,2694,produce
+muesli,2695,other
+cachaca,2696,other
+beef soup bone,2697,meats
+teriyaki glaze,2698,other
+frank's redhot sauce,2699,condiments
+mnm minis,2700,other
+candied citron,2701,other
+cinnamon sugar butter,2702,spices
+Crema Mexicana,2704,other
+white corn,2705,produce
+crawfish,2706,seafood
+macaroni pasta,2707,other
+waffle cone,2708,other
+cheerios cereal,2709,other
+crusty roll,2710,other
+anchovy filets,2711,other
+carbonated water,2712,other
+chicken wing,2713,meats
+pork sausage roll,2714,meats
+brown rice noodles,2715,grains
+soy cheese,2716,dairy
+besan flour,2717,baking
+smoked ham hock,2718,meats
+chuck steak,2719,other
+goose,2720,meats
+chicken thigh fillets,2721,meats
+anchovy fillets,2722,other
+grilled salmon,2723,seafood
+andouille,2724,other
+lo mein noodles,2725,other
+instant oatmeal,2726,other
+flat bread,2727,other
+lemon basil,2728,herbs
+graham flour,2729,meats
+gum drops,2730,other
+hearts of romaine,2731,other
+color added,2732,other
+British cheese,2733,dairy
+garlic flakes,2734,produce
+instant potatoes,2735,produce
+orange oil,2736,other
+lard,2737,other
+canned lentils,2738,other
+bajra,2739,other
+gumbo file,2740,other
+passion fruit,2741,other
+macaroni noodles,2742,other
+hamburger rolls,2743,meats
+midori melon liqueur,2744,other
+hazelnut meal,2745,other
+beef shoulder roast,2747,meats
+challah roll,2749,breads
+raspberry vinaigrette,2750,condiments
+shortbread,2751,other
+pork cutlets,2752,meats
+chai spice,2753,other
+pepperoni sausage,2754,spices
+chipotles in adobo,2755,other
+acini di pepe pasta,2756,other
+cavatappi pasta,2757,other
+dill seeds,2758,herbs
+quark,2759,other
+blueberry jam,2761,condiments
+granola cereal,2762,other
+bottled ginger,2763,spices
+orange food color,2764,other
+slab bacon,2765,meats
+cracker crumb,2766,other
+sun butter,2767,dairy
+Sushi Nori,2768,other
+veal bones,2769,meats
+pearl couscous,2770,grains
+chocolate extract,2771,other
+iodized salt,2772,other
+buffalo chicken wing,2773,meats
+salmon roe,2774,seafood
+flax seed oil,2775,other
+bagel chips,2776,other
+marmalade,2777,other
+curly endive,2778,produce
+maui onion,2779,produce
+chicken bones,2780,meats
+lite beer,2781,other
+asafoetida powder,2782,other
+duck leg,2783,meats
+pie dough,2784,other
+concord grapes,2785,other
+candied walnuts,2787,nuts
+macaroni & cheese dinner,2788,dairy
+fenugreek leaf,2789,other
+mocha,2790,other
+glazed pecans,2791,nuts
+orange peppers,2792,spices
+green tomato,2793,produce
+roasted chicken breast,2794,meats
+hoisin,2795,other
+gherkins,2796,other
+coconut milk powder,2797,dairy
+soybeans,2798,other
+hot chocolate powder,2799,other
+reese cups,2800,other
+beef franks,2801,meats
+lamb mince,2802,meats
+apple butter spread,2803,dairy
+rib roast,2804,other
+tortilla chip scoops,2805,breads
+root vegetable,2806,other
+peanut butter candies,2807,dairy
+chevre cheese,2808,dairy
+fritos,2809,other
+chicken feet,2810,meats
+beetroots,2811,other
+goats cheese,2812,dairy
+icecream treat,2814,dairy
+maple flavor,2815,other
+meyer lemons,2816,other
+taleggio cheese,2817,dairy
+red pepper flake,2818,spices
+butter crackers,2819,dairy
+ras el hanout,2820,other
+haas avocado,2821,produce
+table sugar,2822,baking
+spare ribs,2824,other
+canned anchovies,2825,seafood
+fennel powder,2826,spices
+raspberry sauce,2827,other
+red skin potatoes,2828,produce
+lemon balm,2829,other
+poblano,2830,other
+hazelnut flour,2831,baking
+cheerios oat cereal,2832,other
+veal chops,2833,meats
+diced tomatoes with green chiles,2834,produce
+green gram,2835,other
+canned crab meat,2836,seafood
+chicken liver,2837,meats
+cremini mushroom,2838,produce
+rock shrimp,2839,seafood
+buffalo wings sauce,2841,condiments
+oreo pie crust,2842,other
+pattypan squash,2843,other
+anaheim chile,2844,other
+baby zucchini,2845,produce
+tater tot,2846,other
+onion rolls,2847,produce
+deer,2848,other
+mocha beans,2849,other
+onion leaves,2850,produce
+granulated cane sugar,2851,baking
+scoop tortilla chips,2852,breads
+chipotle chili peppers in adobo,2853,spices
+chipotle chiles,2855,other
+green tea powder,2856,other
+pistachio oil,2857,other
+confectioner's sugar,2858,baking
+brown rice vinegar,2859,grains
+halloumi,2860,other
+large shells,2861,other
+unsmoked back bacon,2862,meats
+celtic sea salt,2863,other
+sesame seed hamburger buns,2864,meats
+peanut butter candy,2865,dairy
+crescent roll,2866,other
+butterscotch pudding,2867,dairy
+pimento filled olives,2868,other
+portabella mushroom caps,2869,produce
+cream soda,2870,dairy
+bbq chicken wings,2871,meats
+lamb stock,2872,meats
+golden potatoes,2873,produce
+chocolate malt powder,2874,other
+bbq wings,2875,other
+pork sirloin tip roast,2876,meats
+cardamon,2877,other
+firmly packed brown sugar,2878,baking
+red beet,2879,other
+morningstar farms patty,2880,other
+egg plant,2881,other
+farmer cheese,2882,dairy
+persimmon,2883,other
+yuzu juice,2884,other
+aji amarillo,2885,other
+blueberry filling,2886,other
+morels,2887,other
+hemp oil,2888,other
+baby bell peppers,2889,spices
+unflavored gelatin,2890,other
+hot dog rolls,2891,other
+radish sprouts,2892,other
+scotch bonnet chili peppers,2893,spices
+buttermilk powder,2894,dairy
+gelato pops,2895,other
+sultana,2896,other
+ciabatta loaf,2897,breads
+oxtails,2898,other
+pie shells,2899,other
+canned anchovy fillets,2900,other
+chile oil,2901,other
+beverage syrup,2902,other
+broccoli spears,2903,produce
+toffee pieces,2904,other
+tortilla wraps,2905,breads
+chocolate coating,2906,other
+hemp protein powder,2907,other
+gooseberries,2908,meats
+banana pepper,2909,spices
+wonton wraps,2910,other
+frank,2911,other
+sub bun,2912,other
+booze,2913,other
+dessert oats,2914,grains
+king oyster mushroom,2915,produce
+celery hearts,2916,produce
+brown onions,2917,produce
+pinot grigio,2918,other
+spaghettini,2919,other
+firm tofu,2920,other
+runner beans,2921,other
+basil oil,2922,herbs
+ice cream cookie sandwich,2923,dairy
+flatleaf parsley,2924,herbs
+coix seed,2925,other
+hemp milk,2926,dairy
+yuzu,2927,other
+chicken wing section,2928,meats
+guanciale,2929,other
+hershey's kisses,2930,other
+ajwain,2931,other
+irish moss,2932,other
+dumpling wrappers,2933,other
+monkfish,2934,other
+vegetables,2935,other
+kecap manis,2936,other
+pork bones,2937,meats
+maize flour,2938,baking
+sandwich cookies,2939,other
+lump crab,2940,seafood
+celery rib,2941,produce
+green chile pepper,2942,spices
+Frank's Red Hot,2943,other
+nut butters,2944,dairy
+red velvet cookie,2945,other
+french dressing,2946,other
+captain crunch cereal,2947,other
+salt packed anchovy,2948,other
+hashbrowns,2949,other
+potato hash,2950,produce
+pop corn,2951,produce
+ribeye steak,2952,other
+popped popcorn,2953,produce
+green tea bags,2954,other
+mint essence,2955,herbs
+chipotle chile pepper,2956,spices
+brown rice pasta,2957,grains
+wheat chex,2958,grains
+mozzarella cheese balls,2959,dairy
+zucchini pasta,2960,produce
+cinnamon swirl bread,2961,spices
+nam pla,2962,other
+gem squash,2963,other
+golden oreos,2964,other
+pecan halves,2965,other
+collard leaves,2966,other
+bramley apples,2967,other
+snickers candy bar,2968,other
+turkey giblets,2969,meats
+manzanilla olives,2970,produce
+coconut vinegar,2971,nuts
+sesame seed buns,2972,other
+amaranth flour,2973,baking
+ditalini,2974,other
+raspberry extract,2975,other
+moon shine,2976,other
+creme de menthe liqueur,2977,other
+serrano chile peppers,2978,spices
+chocolate covered caramel candies,2979,other
+epazote,2980,other
+grouper,2981,other
+popped corn,2982,produce
+tamarind juice,2983,other
+short grain brown rice,2984,grains
+real bacon pieces,2985,meats
+anjou pear,2986,other
+tapioca pearls,2987,other
+shirataki noodles,2988,other
+cod fish,2989,seafood
+quinces,2992,other
+lavender honey,2993,condiments
+roquefort,2994,other
+arbol chile,2995,other
+cane syrup,2996,other
+extra large eggs,2997,other
+black walnuts,2998,nuts
+canned chipotle chiles,2999,other
+beef jerky,3000,meats
+pink grapefruit,3001,other
+wondra flour,3003,baking
+chocolate kisses,3004,other
+preserved lemons,3005,other
+chocolate coffee bean,3006,other
+cream corn,3007,produce
+caramel popcorn,3008,produce
+baby lima beans,3009,other
+horseradish cream,3010,dairy
+green chili pepper,3011,spices
+macaroni and cheese,3012,dairy
+herb tea,3013,other
+tree tomato,3014,produce
+canned black eyed peas,3015,produce
+piecrust,3016,other
+canned anchovy,3017,other
+butter milk,3018,dairy
+diet soda,3019,other
+sausage meat,3020,meats
+brewed coffee,3021,other
+flaxmeal,3022,other
+ham steaks,3023,meats
+bone in pork chops,3024,meats
+mulberries,3025,other
+mushroom blend,3026,produce
+turkey deli meat,3027,meats
+solid white albacore tuna in olive oil,3028,seafood
+calamata olives,3029,produce
+pork rib roast,3030,meats
+unbaked pie shells,3031,other
+wasabi tube,3032,other
+sheep's milk cheese,3033,dairy
+sunchokes,3036,produce
+legumes,3038,other
+rib eye steak,3042,meats
+veal shanks,3043,meats
+oxtail,3044,meats
+chicken leg,3045,meats
+elk sausages,3046,meats
+jalepeno,3048,produce
+canned fire roasted tomatoes,3049,produce
+Greek froyo,3050,other
+scotch bonnet chile,3051,other
+white potato,3052,produce
+strong brewed coffee,3053,other
+guava juice,3054,other
+psyllium husks,3055,other
+fried cod,3056,seafood
+globe eggplant,3057,produce
+beet roots,3059,other
+rice cakes,3060,grains
+Kosher Dill,3061,herbs
+pimento cheese,3062,dairy
+soppressata,3063,other
+queso quesadilla,3064,herbs
+turkey tenderloins,3065,meats
+baby bella mushroom,3066,produce
+conversation hearts,3067,other
+chocolate covered coffee beans,3068,other
+cocoa puffs cereal,3069,other
+bologna,3070,other
+Hawaiian bread,3071,other
+single serve tea,3072,other
+peperoncini,3073,other
+butter flavored crackers,3074,dairy
+pigeon peas,3075,produce
+lemon sugar,3076,baking
+belacan,3077,other
+cous cous,3078,other
+sweet pepper,3079,spices
+rice bran oil,3080,grains
+lavang,3081,other
+starchy potatoes,3082,produce
+bitter chocolate,3083,other
+black quinoa,3084,grains
+beef liver,3085,meats
+red currants,3086,other
+tostadas,3087,other
+lavash,3088,other
+hibiscus,3089,other
+camembert cheese,3090,dairy
+creole spice,3091,other
+braeburn apple,3093,other
+chili without beans,3094,other
+lobster tail,3095,seafood
+Espresso Shot,3096,other
+imitation crab meat,3097,seafood
+redfish,3098,other
+pepperonis,3099,spices
+white chocolate chunks,3100,other
+cape gooseberries,3101,meats
+chicken drumettes,3102,meats
+malted milk balls,3103,dairy
+lucky charms cereal,3104,other
+roasting chickens,3105,meats
+pastrami,3106,other
+ouzo,3107,other
+cocktail sausages,3108,meats
+lotus root,3109,other
+ricotta salata cheese,3110,dairy
+pearl onion,3111,produce
+green papaya,3112,other
+gochugaru,3113,other
+red pearl onions,3114,produce
+chanterelles,3115,other
+wieners,3116,other
+frog legs,3117,other
+turkey wings,3118,meats
+gum drop,3119,other
+spareribs,3120,other
+chilli pepper,3121,spices
+pastry crust,3122,other
+st germain liqueur,3123,other
+caramel sundae syrup,3124,other
+italian parsley,3125,herbs
+rack of lamb,3126,meats
+ducks,3127,meats
+all natural egg,3128,other
+canned biscuits,3129,other
+sweet pickle juice,3131,other
+anaheim pepper,3132,spices
+round steaks,3133,other
+beef fillet,3134,meats
+moscato,3135,other
+basil leaf,3137,herbs
+honey crisp apples,3138,condiments
+beef back ribs,3139,meats
+scotch whisky,3140,other
+clotted cream,3141,dairy
+katsuobushi,3142,other
+coleslaw dressing,3143,other
+oaxaca cheese,3144,dairy
+aloe vera juice,3145,other
+proscuitto,3146,other
+catalina salad dressing,3147,other
+long red chilli,3148,other
+candied nuts,3149,other
+bolognese,3150,other
+stir fry oil,3151,other
+butter substitute,3152,dairy
+wheat beer,3153,grains
+cold cuts,3154,other
+red leaf lettuce leaves,3155,produce
+baby shrimp,3156,seafood
+unsalted pumpkin seeds,3157,nuts
+chai tea bags,3158,other
+raspberry jelly,3159,other
+sunbutter,3160,dairy
+canned green chilis,3161,other
+stock powder,3162,broths
+egg plants,3163,other
+papayas,3164,other
+reindeer,3165,other
+grappa,3166,other
+cream cheese icing,3167,dairy
+black lentils,3168,other
+chestnut flour,3169,baking
+fennel pollen,3170,spices
+purple plums,3171,other
+black treacle,3172,other
+mizuna,3173,other
+pheasant,3174,other
+amchoor,3175,other
+tomatos,3176,produce
+artificial vanilla flavoring,3177,other
+unpopped popcorn,3178,produce
+crème De Menthe Baking Chips,3179,other
+bison,3180,other
+ice cream cone,3181,dairy
+anaheim peppers,3182,spices
+citron,3183,other
+black cardamom pods,3184,spices
+strawberry flavored gelatin,3185,other
+lucky charms,3186,other
+ox tail,3187,other
+cantaloupe balls,3188,other
+cranberry bread,3189,other
+jalepenos,3190,other
+chipotle chili,3191,other
+cherry flavored gelatin,3192,other
+colored sugar,3193,baking
+sago,3194,other
+pomegranates,3195,other
+star fruit,3196,other
+grana padano cheese,3197,dairy
+croissant,3198,breads
+candiquik,3199,other
+lasagne sheets,3200,other
+comte cheese,3201,dairy
+elbow noodles,3202,other
+ancho chili,3204,other
+fiddleheads,3205,other
+mozarella cheese,3206,dairy
+warm milk,3207,dairy
+Caramel Corn,3208,produce
+pork crown roast,3209,meats
+portabella mushroom cap,3210,produce
+pepperoncinis,3211,spices
+dungeness crab,3212,seafood
+guava nectar,3213,other
+cranberry beans,3214,other
+wheat thins,3215,grains
+lasagna sheets,3216,other
+potato bread,3217,produce
+job's tears,3218,other
+quick oats,3219,grains
+sucralose,3220,other
+dark soy sauce,3221,condiments
+lychee,3222,other
+gingerbread men,3223,spices
+barley flour,3224,baking
+malted milk,3225,dairy
+pizza base,3226,other
+lemon sorbet,3227,other
+annatto seeds,3228,other
+dry couscous,3229,grains
+chocolate soy pudding,3230,other
+elk roast,3231,other
+coconut pecan frosting,3232,nuts
+flaxseed oil,3233,oils
+ginger brew,3234,spices
+rice krispies,3235,grains
+toffee chips,3236,other
+ladyfinger cookies,3237,other
+beef shanks,3238,meats
+plum vinegar,3239,other
+filter coffee,3240,other
+siracha,3241,other
+corn grits,3242,produce
+egg roll wrap,3243,other
+peppermint crunch,3244,spices
+yucca,3245,other
+scotch bonnet chili,3246,other
+smoked haddock,3247,other
+garlic butter,3248,produce
+reese's cups,3249,other
+mini bun,3250,other
+artichoke bottoms,3251,other
+cheez whiz cheese dip,3252,dairy
+cream of wheat,3253,dairy
+capsicums,3254,other
+watermelon radish,3255,other
+cornish hen,3256,produce
+semisweet chocolate minichips,3257,other
+lamb loin,3258,meats
+curly leaf lettuce leaves,3259,produce
+hash,3260,other
+grana padano,3261,other
+snails,3262,other
+new potato,3263,produce
+mandarin,3264,other
+veal loin chops,3265,meats
+horseradish root,3266,other
+hot giardiniera,3267,other
+cheeseburger macaroni,3268,dairy
+raisin bread,3269,other
+mandarins,3270,other
+cocktail tomatoes,3272,produce
+korean bbq sauce,3273,other
+shiitakes,3274,other
+manchego,3275,other
+shellfish,3276,other
+kraft single,3277,other
+brats,3278,other
+tomato and basil sauce,3279,produce
+colby monterey jack,3280,other
+ribs celery,3281,produce
+chianti,3282,other
+hardboiled egg,3283,other
+turkey sausages,3284,meats
+white asparagus,3285,produce
+dark chocolate morsels,3286,other
+burrito wrap,3287,other
+yacon syrup,3288,other
+frozen cranberry juice concentrate,3289,other
+poblanos,3290,other
+coffee syrup,3291,other
+farina,3292,other
+sliders buns,3293,other
+turkey breasts,3294,meats
+hotdogs,3295,other
+waffle cones,3296,other
+canned sardines,3297,seafood
+cavatappi,3298,other
+corn flake cereal,3299,produce
+egg roll wraps,3300,other
+tilapia fillet,3301,seafood
+unprocessed wheat bran,3302,grains
+confectioner's swerve,3303,other
+black eyed beans,3304,other
+pouring cream,3305,dairy
+camembert,3306,other
+grapefruit peel,3307,other
+dulse,3308,other
+chilli garlic sauce,3309,produce
+mezcal,3310,other
+twix,3311,other
+cabbages,3312,produce
+bbq spice,3313,other
+lamb cutlets,3314,meats
+canned chipotle pepper,3315,spices
+long pepper,3316,spices
+cheez whiz,3317,other
+chocolate eggs,3318,other
+luncheon meat,3319,other
+canned cannelini beans,3320,other
+farmer's cheese,3321,dairy
+buttery rounds,3322,dairy
+chicken fingers,3323,meats
+bucatini pasta,3324,other
+roasted nuts,3325,other
+corn flake crumbs,3326,produce
+white morsels,3327,other
+little neck clams,3328,seafood
+khoya,3329,other
+fettuccini,3330,other
+chicken broth powder,3331,meats
+sausage patties,3332,meats
+chicken stock powder,3333,meats
+oat porridge,3334,other
+ripe banana,3335,other
+chipotle chile,3336,other
+lox,3337,other
+kamut,3338,other
+irish oats,3339,grains
+cantaloupes,3340,other
+banana pepper rings,3341,spices
+wasabi peas,3342,produce
+red chard,3344,other
+seafood,3345,other
+cheese tortilla chips,3346,dairy
+hero bun,3348,other
+kidney,3349,other
+white grapes,3350,other
+dragon fruit,3351,other
+extra large shrimp,3352,seafood
+mawa,3353,other
+black cherries,3354,other
+cinnamon bun,3355,spices
+acini di pepe,3356,other
+puff pastry sheet,3357,other
+giant shells,3358,other
+flat iron steaks,3359,other
+strawberry sauce,3360,other
+sago pearls,3361,other
+baby leeks,3362,other
+mcintosh apple,3363,other
+st germain,3364,other
+squid ink pasta,3365,seafood
+pasta dough,3366,other
+chayote squash,3367,other
+chile de arbol,3368,other
+fresno pepper,3369,spices
+egg pasta,3370,other
+mango sorbet,3371,other
+pam,3372,other
+pasilla chile,3373,other
+ancho chile peppers,3374,spices
+bran flakes,3375,other
+melon,3376,other
+curly leaf parsley,3377,herbs
+juice boxes,3378,other
+artificial vanilla,3379,other
+filtered water,3382,other
+Butterfinger,3383,dairy
+zinfandel,3384,other
+canned chipotle peppers,3385,spices
+pork liver,3387,meats
+sweet potato starch noodles,3388,produce
+sugar cookie,3389,baking
+hawaiian bun,3390,other
+ice cream cake,3391,dairy
+beef bone broth,3394,meats
+potato puffs,3395,produce
+captain crunch,3396,other
+cassava,3397,other
+cactus pads,3398,other
+mackerel fillets,3399,other
+ridge gourd,3400,other
+sea bream,3401,other
+Pork & Beans,3402,meats
+cannelini beans,3403,other
+sour dough bread,3404,other
+capicola,3405,other
+macadamias,3406,other
+colorful sprinkles,3407,other
+prego sauce,3408,other
+portabello mushrooms,3409,produce
+toffee bar candy,3410,other
+chicken drummettes,3411,meats
+chablis,3412,other
+sweetened flake coconut,3413,nuts
+andouille sausages,3414,meats
+grey goose vodka,3415,meats
+spinach fettuccine,3417,produce
+pretzel nuggets,3418,other
+tiger shrimp,3419,seafood
+cashewmilk,3420,dairy
+garbanzo flour,3421,baking
+soya chunks,3422,other
+sweet pickle,3423,other
+broad egg noodles,3424,other
+cockles,3425,other
+sirloin tip steak,3426,other
+chartreuse,3428,other
+borlotti beans,3429,other
+snickers chocolate bar,3430,other
+butternut pumpkin,3432,dairy
+red food colouring,3433,other
+sweet potato fries,3434,produce
+egg white powder,3435,other
+gemelli,3436,other
+cinnamon schnapps,3437,spices
+no bake cookies,3438,other
+milky way,3439,dairy
+pork loin chop,3440,meats
+beef patties,3441,meats
+beef fillets,3442,meats
+collards,3443,other
+yeast rolls,3444,baking
+mangetout,3445,other
+acai powder,3446,other
+teriyaki baste and glaze,3447,other
+hotdog,3448,other
+maraschino cherry syrup,3449,other
+king oyster mushrooms,3450,produce
+bran flakes cereal,3452,other
+oat milk,3453,dairy
+medium grain rice,3454,grains
+kang kong,3455,other
+adzuki beans,3456,other
+au jus gravy,3457,other
+vegenaise,3459,other
+lettuce cups,3460,produce
+poached egg,3461,other
+turbinado,3462,other
+blueberry juice,3463,other
+bread soda,3464,other
+baby corns,3465,produce
+brat,3466,other
+beef bone,3467,meats
+raspberry flavor gelatin,3468,other
+soy bean flour,3469,baking
+evaporated cane juice crystals,3470,other
+edam cheese,3471,dairy
+porterhouse steaks,3472,other
+imitation crab,3473,seafood
+unsweetened soymilk,3474,dairy
+turnip tops,3475,other
+fettucine,3476,other
+buttercup squash,3477,dairy
+green sweet pepper,3478,spices
+potato crisps,3479,produce
+baby potato,3480,produce
+marie biscuits,3481,other
+black cod,3482,seafood
+bouillon powder,3483,broths
+rice papers,3484,grains
+imitation vanilla extract,3485,baking
+bean threads,3486,other
+farm raised catfish fillets,3487,seafood
+distilled white vinegar,3488,other
+strained yogurt,3489,dairy
+chex corn cereal,3490,produce
+turkey tenderloin,3491,meats
+beansprouts,3492,other
+palm hearts,3493,other
+chocolate dessert sauce,3494,other
+golden oreo cookies,3495,other
+piloncillo,3496,other
+bread loaf,3497,other
+dehydrated onion,3498,produce
+nacho cheese,3499,dairy
+banana leaf,3500,other
+manicotti,3501,other
+chipotle chili pepper,3502,spices
+wild blueberries,3503,other
+cashew nut,3504,other
+date palm sugar,3505,baking
+guinea fowl,3506,other
+TSP,3507,other
+graham cracker square,3508,meats
+mounds,3509,other
+calf liver,3511,other
+verjus,3512,other
+hot dog bun,3513,other
+lychees,3514,other
+emmentaler cheese,3515,dairy
+tempura shrimp,3516,seafood
+frankfurters,3517,other
+chayotes,3518,other
+black plums,3519,other
+red hots,3520,other
+capellini,3521,other
+garbanzos,3522,other
+european seabass,3523,other
+red chilis,3524,other
+emmental cheese,3525,dairy
+boston bibb lettuce,3526,produce
+green hot sauce,3527,condiments
+cracker meal,3528,other
+orange jello,3529,other
+plum preserves,3530,other
+schmaltz,3531,other
+banana nut bread,3532,other
+baharat,3533,other
+guajillo chile,3534,other
+hawaiian sweet rolls,3535,other
+tomato concentrate,3536,produce
+moong beans,3537,other
+kelp noodles,3538,other
+crayfish,3539,seafood
+overnight oats,3540,grains
+coffee granules,3541,other
+ham slices,3542,meats
+italian turkey sausages,3543,meats
+sopressata,3544,other
+strip loin,3545,other
+pork stock,3546,meats
+leftover turkey,3547,meats
+pork fillet,3548,meats
+Mini M&Ms,3549,other
+franks,3550,other
+st. germain,3551,other
+dr pepper,3552,spices
+empanada dough,3553,other
+grain alcohol,3554,other
+matzoh meal,3555,other
+mahimahi,3556,other
+dr. pepper,3557,spices
+mange tout,3558,other
+duck eggs,3559,meats
+amaretti biscuits,3560,other
+chocolate topping,3561,other
+beef filets,3562,meats
+bird's eye chiles,3563,other
+black currants,3564,other
+unsweetened dutch process cocoa powder,3565,baking
+porterhouse steak,3566,other
+coconut manna,3567,nuts
+basil infused oil,3568,herbs
+bird's eye chilis,3569,other
+almond joy,3570,other
+pretzel rolls,3571,other
+zoodles,3572,other
+tuna packed in water,3573,seafood
+unsweetened dutch processed cocoa powder,3574,baking
+chipotles,3575,other
+sweet red peppers,3576,spices
+cheese pumpkin,3577,dairy
+breakfast sausage patties,3578,meats
+fuyu persimmon,3579,produce
+whitefish fillets,3581,seafood
+cannoli shells,3583,other
+whipped butter,3584,dairy
+white sweet potatoes,3587,produce
+green olive,3588,produce
+iceburg lettuce,3589,produce
+ciabatta buns,3590,breads
+bleu cheese dressing,3592,dairy
+havarti,3593,dairy
+milled flax seed,3596,other
+red grapefruit juice,3598,other
+bleu cheese crumbles,3599,dairy
+deep dish pie shells,3601,other
+smoked sausages,3603,meats
+butterhead lettuce,3605,produce
+salmon caviar,3609,seafood
+muscat wine,3610,other
+turkey wing,3611,meats
+cranberry juice concentrate,3612,other
+grape tomato,3613,produce
+nopales,3614,produce
+bicarb soda,3615,other
+herring,3616,seafood
+crisped rice cereal,3617,grains
+radish leaves,3621,produce
+fillo dough,3623,other
+tumeric powder,3624,spices
+canned fava beans,3626,other
+spanish onion,3627,produce
+rainier cherries,3628,produce
+beluga lentils,3632,grains
+huckleberries,3634,produce
+muskmelon,3635,produce
+bratwursts,3637,other
+grape jam,3639,condiments
+hamburger patties,3641,meats
+baby eggplant,3643,produce
+creamer potatoes,3645,produce
+lime curd,3646,other
+green mango,3648,produce
+green pesto,3649,condiments
+pretzel buns,3650,breads
+au jus,3651,other
+soy oil,3654,oils
+quinoa pasta,3656,other
+white kidney beans,3657,other
+scallop,3658,seafood
+aji amarillo paste,3659,other
+branzino,3660,seafood
+poblano chili,3663,other
+turkey burger,3665,meats
+bratwurst sausage links,3668,meats
+squid tubes,3673,seafood
+mint jelly,3680,herbs
+scape tops,3682,produce
+king trumpet mushrooms,3683,produce
+stuffed chicken breasts,3684,meats
+perilla leaves,3685,herbs
+chicken quarters,3687,meats
+pike,3688,seafood
+pimiento cheese,3689,dairy
+ruby port,3691,other
+black beluga lentils,3692,grains
+mitsuba,3695,produce
+kumquat,3696,produce
+chicken bone,3697,meats
+chuck steaks,3699,meats
+turkey thigh,3701,meats
+chipotle chilis in adobo,3702,other
+frozen yogurt,3703,dairy
+shiso leaf,3706,herbs
+bone in turkey breast,3707,meats
+lemon sole,3709,seafood
+creamed coconut,3710,dairy
+mostaccioli pasta,3711,other
+cranberry cocktail,3716,other
+beef bouillon powder,3718,meats
+rice cake,3719,other
+red pesto,3720,condiments
+turkey breast tenderloin,3723,meats
+rapini,3724,produce
+scotch whiskey,3725,other
+flax oil,3726,other
+tiger prawn,3729,seafood
+peanut satay sauce,3733,condiments
+kit kat,3736,other
+bags chai tea,3737,other
+crab legs,3738,seafood
+acai berry powder,3740,other
+penne noodles,3741,other
+turkey leg,3742,meats
+frozen biscuits,3743,other
+grated parmesan cheese,3744,dairy
+diet coke,3745,other
+capellini pasta,3749,other
+cardamon pods,3750,other
+gelato,3751,other
+vanilla pods,3753,spices
+creme de cocoa,3757,other
+lavash bread,3758,breads
+creamer potato,3759,produce
+trout,3760,seafood
+bramley apple,3761,produce
+guavas,3762,produce
+balm mint,3763,herbs
+silver tequila,3764,other
+black mustard seed,3765,spices
+ice cream sandwich,3766,dairy
+ready to drink coffee,3769,other
+yeast dinner rolls,3770,breads
+rolos,3771,other
+pretzel bites,3772,other
+serrano chili pepper,3773,spices
+sweet red pepper,3774,spices
+golden oreo,3775,other
+fruity pebbles cereal,3776,other
+pork bone,3778,meats
+powdered buttermilk,3779,dairy
+catfish fillet,3780,seafood
+achiote seeds,3781,nuts
+lady finger cookies,3782,other
+ash gourd,3783,produce
+elk tenderloin,3784,meats
+burdock root,3785,produce
+cuban pepper,3786,produce
+marmite,3787,condiments
+curly leaf lettuce,3788,produce
+chopped pecans,3789,nuts
+chai tea bag,3790,other
+powdered egg whites,3791,other
+yuca root,3792,produce
+boar chop,3794,meats
+dry riesling,3795,other
+jumbo shell pasta,3796,other
+ancho chile pepper,3797,spices
+round tip steak,3799,meats
+venison loin,3800,meats
+tea biscuits,3801,other
+ancho chili pepper,3802,spices
+refined sugar,3804,baking
+kabocha,3805,produce
+hummus dip,3806,condiments
+romanesco,3807,produce
+chocolate malt,3808,other
+achiote powder,3810,spices
+instant ramen,3811,other
+elderberries,3814,produce
+sweet italian sausage,3815,meats
+butter leaf lettuce,3817,produce
+bone in skin on turkey breast,3818,meats
+red mullet,3819,seafood
+turkey smokies,3821,meats
+ciabatta roll,3822,breads
+corkscrew pasta,3823,other
+dumpling skins,3825,other
+turkey meatballs,3826,meats
+red skinned sweet potato,3827,produce
+white sweet potato,3829,produce
+fingerling potato,3830,produce
+prepared pizza crust,3831,other
+horse radish sauce,3832,condiments
+broccoli sprouts,3834,produce
+fresno peppers,3835,spices
+veggie sausage,3837,meats
+chicken foot,3838,meats
+zaatar,3839,spices
+demerara,3841,other
+squid tube,3842,seafood
+anchovy oil,3843,other
+dry buttermilk,3844,dairy
+sweet orange pepper,3845,spices
+raspberry flavored gelatin,3846,other
+wax chili,3847,other
+pork fillets,3848,meats
+waxy potato,3849,produce
+veal shank,3850,meats
+veggie nuggets,3851,other
+milled flaxseed,3852,other
+pineapple jam,3853,condiments
+mozzerella cheese,3854,dairy
+hubbard squash,3855,other
+curly lettuce leaves,3856,produce
+roasted chicken breasts,3857,meats
+berbere,3858,other
+ox tails,3859,other
+boca patty,3860,other
+submarine sandwich buns,3861,other
+arrowroot starch flour,3862,baking
+stuffed pasta,3863,other
+cavatelli,3864,other

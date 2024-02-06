@@ -61,11 +61,15 @@ def main():
         agent_type=AgentType.OPENAI_FUNCTIONS,
         verbose=True,
     )
-    grand_agent.run(
-    "Generate and save in current working directory 15 QRcodes that point to www.binhngo.me, you have the qrcode package installed already"
-    )
+    # grand_agent.run(
+    # "Generate and save in current working directory 15 QRcodes that point to www.binhngo.me, you have the qrcode package installed already"
+    # )
 
-    grand_agent.run("Print the seasons in ascending order based on the number of episodes they have")
+    # grand_agent.run("Print the seasons in ascending order based on the number of episodes they have")
+
+    grand_agent.run(
+        "I want you to add unique ingredient_id numbers to each of the ingredients in the chef-ingredients csv file."
+    )
 
 
 if __name__ == "__main__":
