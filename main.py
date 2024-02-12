@@ -67,9 +67,7 @@ def main():
 
     # grand_agent.run("Print the seasons in ascending order based on the number of episodes they have")
 
-    grand_agent.run(
-        "I want you to add unique ingredient_id numbers to each of the ingredients in the chef-ingredients csv file."
-    )
+    grand_agent.run("")
 
 
 if __name__ == "__main__":
